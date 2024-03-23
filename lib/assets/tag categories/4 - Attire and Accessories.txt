@@ -1,0 +1,353 @@
+{Attire and Accessories: [Attire, Accessories, Clothing States, Styling, Nudity]}
+
+	{Attire: [Headwear, Neck and Shoulders, Topwear, Bottomwear, Shoes, Full-body]}
+	
+		{Headwear: [cat_hat, bandana, baseball_cap, visor_cap, beanie, bicorne, bonnet, bowler_hat, bucket_hat, bun_cover, cabbie_hat, chef_hat, toque_blanche, flat_top_chef_hat, cloche_hat, cowboy_hat, crown, circlet, boqtaq, ikseongwan, jokduri, native_american_headdress, tiara, deerstalker, deviruchi_hat, djasal, dutch_cap, earflap_hat, facinator, fake_animal_ears, fedora, flat_cap, forehead_protector, fur_hat, gat, habit, hairband, animal_ear_hairband, cat_ear_hairband, hair_bow, large_bow, hair_ornament, crescent_hair_ornament, food_themed_hair_ornament, hair_pin, hair_ribbon, hair_tie, hat_ribbon, head_mirror, head_wreath, laurel_wreath, headband, sweatband, hachimaki, mongkhon, helmet, batting_helmet, football_helmet, hardhat, helm, kabuto, motorcycle_helmet, pith_helmet, spiked_helmet, winged_helmet, hennin, jeonmo, jester_cap, keffiyeh, maid_cap, maid_headdress, military_hat, beret, dixie_cup_hat, garrison_cap, papakha, peaked_cap, shako_cap, mitre, mob_cap, nurse_cap, pillbox_hat, pillow_hat, pirate_hat, porkpie_hat, pumpkin_hat, rice_hat, conical_hat, santa_hat, school_hat, shower_cap, sombrero, stampede_string, straw_hat, sun_hat, tate_eboshi, tokin_hat, top_hat, mini_top_hat, triangular_headpiece, tricorne, ushanka, wig, gache, witch_hat, wizard_hat, veil]}
+		
+		{Topwear: [Tops, Jackets and heavy tops, Capes, Shirts, Lingerie, Sleeves]} 
+		
+			{Tops: [backless, backless_outfit, blouse, bustier, camisole, crop_top, corset, habit, halterneck, criss-cross_halter, halter_top, bolero, raincoat, straitjacket, tailcoat, pentagram_cutout, surcoat, tabard, tank_top, tubetop, bandeau, tunic, shawl, vest, apron, robe, bathrobe, sarahshi, smock, shrug_(clothing), bra]}
+			
+			{Jackets and heavy tops: [hoodie, jacket, black_jacket, blue_jacket, green_jacket, orange_jacket, pink_jacket, plaid_jacket, purple_jacket, red_jacket, striped_jacket, white_jacket, yellow_jacket, blazer, bomber_jacket, cape_jacket, coat, black_coat, white_coat, fur_coat, fur-trimmed_jacket, sweater, black_sweater, blue_sweater, red_sweater, white_sweater, yellow_sweater, aran_sweater, cardigan, cardigan_shrug, naked_sweater, pullover, turtleneck_sweater, virgin_killer_sweater, sweater_dress, ribbed_sweater, sweater_vest, waistcoat, peacoat, parka, jumper, turtleneck, sleeveless_turtleneck, open-chest_sweater, trench_coat, virgin_killer_sweater]}
+			
+			{Capes: [cape, arm_slit_cape, capelet, hooded_cape, cloak, hooded_cloak, inverness_cape]}
+		
+			{Shirts: [shirt, ruffled_shirt, black_shirt, blue_shirt, checkered_shirt, green_shirt, orange_shirt, pink_shirt, plaid_shirt, polka_dot_shirt, print_shirt, purple_shirt, red_shirt, striped_shirt, white_shirt, yellow_shirt, collared_shirt, peter_pan_collar, sailor_collar, dress_shirt, Hawaiian_shirt, sleeveless_shirt, striped_shirt, t-shirt, lace-trimmed_shirt, Mega_Milk, lightning_cat_sweatshirt]}
+			
+			{Lingerie: [lingerie, babydoll, bodystocking, bra, bustier, camisole, chemise, corset, fishnets, fishnet_stockings, garters, garter_belt, lace, nightgown, strapless_bottom, teddy, teddiette, thighhighs, thong, g-string, pearl_thong, cat_lingerie]}
+			
+			{Sleeves: [bell_sleeve, flutter_sleeves, frilled_sleeves, long_sleeves, thumb_hole, puffy_sleeves, gigot_sleeves, juliet_sleeves, puff_and_slash_sleeves, puffy_detached_sleeves, puffy_long_sleeves, puffy_short_sleeves, raglan_sleeves, short_sleeves, sleeveless, sleeves_past_wrists, wide_sleeves]}
+			
+		{Neck and Shoulders: [Scarfs, Collars, Shoulder Attire and Objects]}
+		
+			{Scarfs: [scarf, aqua_scarf, black_scarf, blue_scarf, green_scarf, orange_scarf, pink_scarf, plaid_scarf, polka_dot_scarf, purple_scarf, red_scarf, striped_scarf, white_scarf, yellow_scarf, cowl_neck_scarf, infinity_scarf, Striped_necktie Scarf, shawl]}
+		
+			{Collar: [collar, detached_collar, fur_collar, high_collar, open_collar, peter_pan_collar, popped_collar, sailor_collar, turtleneck, v-neck, wide_collar, wing_collar, elizabethan_collar, neck_ruff, collar_grab, collar_tug, adjusting_collar]} 
+			
+			{Shoulder Attire and Objects: [Attire, Exposed, Objects]}
+				
+				{Attire for shoulders: [Coat_over_shoulders, jacket_over_shoulder, shirt_on_shoulders]} 
+				
+				{Exposed shoulders: [bare_shoulders, off_shoulder]} 
+				
+				{Objects with shoulders: [towel_on_shoulders, weapon_over_shoulder, sword_over_shoulder]} 
+			
+		{Bottomwear: [Pants, Shorts, Skirts, Panties, Legwear, Misc]}
+		
+			{Pants: [black_pants, blue_pants, green_pants, orange_pants, pink_pants, plaid_pants, purple_pants, red_pants, striped_pants, white_pants, yellow_pants, lowleg_pants,  capris, chaps, detached_pants, jeans, torn_jeans, bellbottoms, cutoff_jeans, single_pantsleg, bikini_jeans]}
+			
+			{Shorts: [shorts, blue_shorts, green_shorts, orange_shorts, pink_shorts, plaid_shorts, polka_dot_shorts, print_shorts, purple_shorts, red_shorts, yellow_shorts, bike_shorts, denim_shorts, gym_shorts, hot_pants, short_pants, short_shorts, shorts_under_skirt, bloomers, buruma, pumpkin_pants]}
+			
+			{Skirts: [skirt, blue_skirt, green_skirt, orange_skirt, pink_skirt, plaid_skirt, polka_dot_skirt, print_skirt, purple_skirt, red_skirt, yellow_skirt, bubble_skirt, high-waist_skirt, kimono_skirt, long_skirt, microskirt, miniskirt, pencil_skirt, kilt, petticoat, sarong, pleated_skirt, loincloth]}
+			
+			{Panties: [Colour, Patterns, Style And Materials, With Other Clothes, Actions, Placement, With Fluids]}
+			
+				{Colours: [aqua_panties, black_panties, blue_panties, brown_panties, green_panties, grey_panties, orange_panties, pink_panties, purple_panties, red_panties, white_panties, yellow_panties, multicolored_panties]}
+
+				{Patterns: [bear_panties, bunny_panties, cat_panties, checkered_panties, lace_panties, lace-trimmed_panties, plaid_panties, polka_dot_panties, print_panties, strawberry_panties, striped_panties, vertical-striped_panties]}
+
+				{Style and materials: [panties, latex_panties, leaf_panties, backless_panties, c-string, crotchless_panties, strapless_bottom, lowleg_panties, highleg_panties, bow_panties, crotch_seam, frilled_panties, side-tie_panties, string_panties, loose_panties, micro_panties]}
+
+				{With other clothes: [panties_over_bike_shorts; panties_under_bike_shorts, panties_over_pantyhose; panties_under_pantyhose, panties_under_buruma, pantylines,]}
+
+				{Actions: [adjusting_panties, hand_in_panties, holding_panties, underwear_sniffing]}
+				
+				{Placement: [panties_around_ankles, panties_around_one_leg, panties_on_breasts, panty_on_penis, penis_in_panties, panties_in_mouth, panties_on_head, panty_gag, panty_licking, panties_around_tail, panties_aside, panties_removed]}
+
+				{With fluids: [Cumdrip_onto_panties, Cum_in_panties, Stained_panties, Wet_panties]}
+		
+			{Legwear: [Length, Colours, Patterns, Misc]}
+		
+				{Length: [Socks, Kneehighs (covers the feet and legs up to the knees), Over-kneehighs (covers the leg from the foot up to just above the knees), Thighhighs (covers the leg from the foot up to the mid-thighs), Pantyhose (covers from the waist to the toes), Leg Warmers (from ankle to knee), leggings (uncovered feet from ankle to waist), Bare Legs]}
+				
+					{Socks: [socks, ankle_socks, beoseon, bobby_socks, boot_socks, collared_socks, loose_socks, single_sock, tabi, toe_socks, toeless_socks, stirrup_socks, tube_socks]}
+					
+					{Kneehighs: [single_kneehigh]}
+					
+					{Over-kneehighs: [over-kneehighs]}
+					
+					{Thighhighs: [lace-trimmed_thighhighs, lace-up_thighhighs, loose_thighhigh, single_thighhigh]}
+					
+					{Pantyhose: [Thighband_pantyhose, fishnet_pantyhose]}
+					
+					{Leg Warmers: [leg_warmers]}
+					
+					{Leggings: [leggings, stirrup_legwear]}
+					
+					{Bare Legs: [bare_legs]}
+				
+				{Colours: [aqua_legwear, black_legwear, blue_legwear, brown_legwear, green_legwear, grey_legwear, orange_legwear, pink_legwear, purple_legwear, red_legwear, white_legwear, yellow_legwear, gradient_legwear, multicolored_legwear]}
+				
+				{Patterns: [argyle_legwear, checkered_legwear, plaid_legwear, polka_dot_legwear, print_legwear, striped_legwear, vertical-striped_legwear]}
+				
+				{Styles: [legwear, animal_band_legwear, cat_band_legwear, ankle_lace-up, garters, garter_belt, garter_straps, leg_garter, spats, thigh_strap, zettai_ryouiki]}
+
+				{Misc: [asymmetrical_legwear, back_seamed_legwear, bow_legwear, frilled_legwear, lace_legwear, lace-up_legwear, latex_legwear, mismatched_legwear, no_legwear, sheer_legwear, toeless_legwear]}
+			
+			{Misc: [ass_cutout, heart_ass_cutout, trefoil]}
+		
+		{Shoes: [Colour, Boots, Heels, Sandals, Flats]}
+		
+			{Colour: [black_shoes, blue_shoes, brown_shoes, green_shoes, orange_shoes, pink_shoes, plaid_shoes, purple_shoes, red_shoes, white_shoes, yellow_shoes]}
+			
+			{Boots: [boots, ankle_boots, combat_boots, cowboy_boots, spurs, fur_boots, high_heel_boots, lace_up_boots, leather_boots, rubber_boots, galoshes, thigh_boots, knee_boots]} 
+			
+			{Heels: [high_heels, high_heel_boots, high_heel_sandals, low_heels, platform_heels, stilettos, wedge_heels, platform_footwear, platform_heels]} 
+			
+			{Sandals: [sandals, barefoot_sandals, clog_sandals, flip-flops, geta, gladiator_sandals, high_heel_sandals, waraji, wide_strap_sandals, zouri, open_shoes]} 
+		
+			{Flats: [flats, loafers, mary_janes, moccasins, snow_shoes, slippers, animal_slippers, sneakers, split-toe_footwear, t-strap_shoes, uwabaki, ankle_strap, ballet_slippers, clogs, crocs, cross-laced_footwear, pointy_shoes, danghye, pumps, saddle_shoes, shoe_ribbon]}
+			
+		{Full-body: [Other, Swimwear, Dress, Suit, Uniforms and Costumes, Sexywear]}
+		
+			{Other: [virgin_killer_outfit, bikesuit, racing_suit, bodystocking, bodysuit, leotard, pajamas, kigurumi, romper, reverse_outfit]}
+			
+			{Swimwear: [Bikini, Swimsuit]}
+			
+				{Bikini: [bikini, leaf_bikini, string_bikini, micro_bikini, side-tie_bikini, sling_bikini, lowleg_bikini, thong_bikini, venus_bikini, bikini, checkered_bikini, polka_dot_bikini, sports_bikini, bikini_top, tankini, fishnet_swimsuit, bikini_bottom, bikini_top, venus_bikini]} 
+				
+				{Swimsuit: [swimsuit, competition_swimsuit, cross_swimsuit, polka_dot_swimsuit, white_swimsuit, school_swimsuit, white_school_swimsuit, criss-cross_halter, open-back_swimsuit, front_zipper_swimsuit, gris_swimsuit, rei_no_mizugi]}
+				
+				{Other: [speedo, wetsuit, swimming_trunks]}
+			
+			{Dress: [Colour and material, Style]}
+
+				{Color and material: [black_dress, blue_dress, brown_dress, green_dress, grey_dress, orange_dress, pink_dress, purple_dress, red_dress, white_dress, yellow_dress, beaded_dress, print_dress, checkered_dress, gradient_dress, lace_dress, plaid_dress, polka_dot_dress, striped_dress, sweater_dress, velvet_dress]}
+			
+				{Style: [armored_dress, ball_gown, bubble_dress, bustle_dress, coat_dress, frock, frilled_dress, gown, jumper, long_dress, nightgown, open-back_dress, princess_dress, sailor_dress, short_dress, micro_dress, strapless_dress, sundress, toga, tutu, wedding_dress, bridal_gauntlets, veil, dress, the_dress_(meme), minidres, rei_no_himo]}
+				
+			{Suit: [suit, black_suit, blue_suit, pinstripe_suit, red_suit, white_suit, yellow_suit, business_suit, kilt, lapel_pin, pant_suit, skirt_suit, tailcoat, tuxedo]}
+
+			{Uniforms and Costumes: [Uniform, Costume]}
+			
+				{Uniform:[General, Specific]} 
+					
+					{General: [matador, miko, waitress]}
+
+					{Specific: [Ballerina, Band uniform, Doctor, Nurse, School, Sports, Military, Sailor, Pilot]}
+				
+						{Ballerina: [ballet_slippers, tutu]} 
+
+						{Band uniform: [band_uniform, aiguillette, shako_cap]}
+
+						{Doctor: [doctor, head_mirror, labcoat, medical_scrubs, stethoscope, surgical_mask]}
+						
+						{Nurse: [nurse_cap, medical_scrubs, stethoscope, surgical_mask]}
+						
+						{School: [school_uniform, blazer, cardigan, gakuran, meiji_schoolgirl_uniform, pleated_skirt, sailor_dress, serafuku, uwabaki, vest, sweater_vest]}
+						
+						{Sports: [General, Specific]}
+						
+							{General: [basketball_uniform, soccer_uniform, softball_uniform, jersey]}
+						
+							{Specific: [Gym, Baseball, Cheerleader, Football, Track suit]} 
+						
+								{Gym: [gym_uniform, buruma, sweat_pants]} 
+								
+								{Baseball: [baseball_uniform, baseball_cap, batting_helmet]} 
+								
+								{Cheerleader: [cheerleader, pom_pom_(cheerleading)]}
+							
+								{Football: [football_uniform, football_helmet]} 
+			
+								{Track suit: [track_suit, sweatpants, sweatshirt]}
+						
+						{Military: [military_uniform, army, camouflage, marine, navy, samurai, kabuto, soldier, knight, breastplate, helm, pauldrons]}
+						
+						{Sailor: [sailor_uniform, dixie_cup_hat, sailor_collar]}
+						
+						{Pilot: [pilot_suit, plugsuit]}
+
+				{Costume: [General, Specific]}
+				
+					{General: [Wedding, Wrestler, Idol]}
+					
+						{Wedding: [wedding_dress, bridal_gauntlets, veil, wedding_kimono]}
+						
+						{Wrestler: [wrestler, luchador, luchador_mask, sumo, wrestling_outfit]}
+						
+						{Idol: [idol_clothes]}
+					
+					{Specific: [Cultural clothes]}
+					
+						{Cultural clothes: [Americas, Europe, Asia]}
+						
+							{America: [Native_American_clothes, annuraaq, aztec, fur_parka, moccasins, Native_American_headdress, poncho, sombrero]}
+							
+							{Europe: [General, Specific]}
+							
+								{General: [clogs, cravat, ascot, dutch_cap, hennin, medieval, tabard, Finnish_clothes]}
+							
+								{Specific: [German, French, Finnish, Greek, Scottish, Spanish]}
+														
+									{German: [german_clothes, dirndl, lederhosen]}
+									
+									{French: [french_clothes, musketeer]}
+									
+									{Greek: [gladiator_sandals, laurel_wreath, peplos, pteruges, toga, stola]}
+									
+									{Scottish: [scottish_clothes, kilt, sporran]}
+									
+									{Spanish: [spanish_clothes, matador]}
+							
+							{Asia: [Japanese, Chinese, Mongolian, Korean, Vietnamese, Indian, Middle East]}
+							
+								{Japanese: [japanese_clothes, fundoshi, yamakasa, geta, hachimaki, hakama, haori, haramaki, kimono, furisode, multilayer_kimono, short_kimono, tasuki, wedding_kimono, yukata, kimono_skirt, kigurumi, meiji_schoolgirl_uniform, obi, sarashi, tabi, tasuki, tate_eboshi, tokin_hat, uwabaki]}
+							
+								{Chinese: [chinese_clothes, china_dress(cheongsam/qipao), hanfu, ikseongwan]}
+								
+								{Mongolian: [mongolian_clothes (deel), boqtaq, djasal]}
+								
+								{Korean: [korean_clothes, beoseon, danghye, gache, hanbok, jeonbok, korean_traditional_hat, ayam, gat, ikseongwan, jeonmo, jokduri, maedeup]}
+								
+								{Vietnamese: [vietnamese_clothes (áo dài), vietnamese_dress]}	
+
+								{Indian: [indian_clothes, sari, bindi]}
+								
+								{Middle East: [arabian_clothes, harem_outfit, harem_pants]}
+
+				{Cosplay: [General, Specific]}
+					
+					{General: [mummy_costume, animal_costume, nontraditional_miko, black_nurse_outfit]}
+					
+					{Specific: [Angel, General Animals, Specific Animals, Demon, Santa, Witch, Cowboy/Cowgirl, Halloween, Food-themed, Nun, Priest]}
+					
+						{Angel: [angel_costume, angel_wings, halo, fake_wings]} 
+						
+						{General Animal: [animal_ears, boar_costume, panda_costume, penguin_costume, pig_costume, seal_costume, sheep_costume, monkey_costume]}
+				
+						{Specific animals: [bear, bunny, cat, cow, dog, fox, monkey, mouse, reindeer, tiger, wolf]}
+						
+							{Bear: [bear_costume, bear_ears]}
+							
+							{Bunny: [bunny_costume, bunny_ears, bunny_tail]}
+							
+							{Cat: [cat_costume, cat_ears, cat_tail]}
+							
+							{Cow: [cow_costume, cow_ears, cow_print, cow_tail, horns]} 
+							
+							{Dog: [dog_costume, dog_ears, dog_tail]}
+							
+							{Fox: [fox_costume, fox_ears, fox_tail]}
+							
+							{Mouse: [mouse_costume, mouse_ears]} 
+							
+							{Reindeer: [reindeer_costume, antlers]} 
+							
+							{Tiger: [tiger_costume, tiger_ears, tiger_print, tiger_tail]}
+							
+							{Wolf: [wolf_costume, wolf_ears, wolf_tail]}  
+						
+						{Demon: [demon_costume, demon_tail, demon_wings, fake_wings, fake_horns]}
+						
+						{Santa: [santa_costume, fur_trim, pom_pom_(clothes), santa_hat]} 
+						
+						{Witch: [witch_costume, witch_hat]} 
+						
+						{Cowboy/Cowgirl: [bandanna, bandolier, bolo_tie, chaps, cowboy_boots, cowboy_hat, stampede_string, duster, spurs, western]} 
+						
+						{Maid: [maid, apron, maid_apron, maid_cap, maid_headdress]}
+						
+						{Halloween: [halloween_costume, pumpkin_hat]}
+						
+						{Food-themed: [food_themed_clothes, cake_dress]} 
+						
+						{Nun: [nun, habit, rosary]} 		
+
+						{Priest: [priest, cassock, mitre, stole]}
+						
+			{Sexywear: [lingerie, bdsm, misc]}				
+			
+				{BDSM: [blindfold, bodysuit, gimp_suit, latex, monoglove]}
+		
+				{Misc: [pasties, reverse_bunnysuit, bunny_costume]}
+	
+	{Accessories: [Body parts, Piercings, Decoration]}
+		
+		{Body parts: [Head and Face, Neck and Shoulders, Limbs, Torso]
+		
+			{Head and Face: [Makeup, Eyewear, Jewellery, Masks, Hair, Headphones]}
+			
+				{Makeup: [makeup, blush, eyeliner, eyeshadow, blue_eyeshadow, green_eyeshadow, red_eyeshadow, yellow_eyeshadow, forehead_mark, facial_mark, lip_balm, lipgloss, lipstick, black_lipstick, blue_lipstick, green_lipstick, orange_lipstick, pink_lipstick, striped_lipstick, purple_lipstick, red_lipstick, white_lipstick, yellow_lipstick]}
+				
+				{Eyewear: [glasses, monocle, pince-nez]} 
+				
+				{Jewellery: [nose_ring, earrings, ear_studs, sphere_earrings, hoop_earrings, penis_jewellery]}
+				
+				{Masks: [mask, domino_mask, fox_mask, half_mask, noh_mask, ski_mask, surgical_mask]}
+				
+				{Hair: [hair_ornament, hairclip, hairpin]}
+				
+				{Headphones: [earphones, ear_buds, headphones]}
+				
+			{Neck and Shoulders: [necklace, choker, other]}
+			
+				{Necklace: [necklace, chain_necklace, pearl_necklace, Flower_necklace, Pendant, Amulet, Locket, Magatama necklace, Friendship_charm, cross_necklace, bead_necklace, heart_necklace, carrot_necklace, star_necklace, flower_necklace, key_necklace, gold_necklace, tooth_necklace, anchor_necklace, shell_necklace, fang_necklace, crescent_necklace, feather_necklace, ring_necklace, bone_necklace, ankh_necklace, butterfly_necklace, rosary, lei]}
+				
+				{Choker: [choker, bell_choker, ribbon_choker, black_choker, ribbon_choker, white_choker, red_choker, blue_choker, frilled_choker, pink_choker, heart_choker, purple_choker, o-ring_choker, pendant_choker, y ellow_choker, star_choker, green_choker, gold_choker, bow_choker, spiked_choker, anchor_choker, cross_choker, lace_choker, brown_choker, heart_ring_choker, flower_choker, studded_choker, orange_choker, grey_choker, fur_choker, lace-trimmed_choker, aqua_choker, tassel_choker, leather_choker, butterfly_choker, bead_choker, skull_choker, crescent_choker, fur-trimmed_choker, snowflake_choker]}
+			
+				{Other: [ascot, boa, bowtie, cravat, epaulettes, neck_ruff, neckerchief, pentacle neck_ribbon, lanyard neckerchief, goggles_around_neck, headphones_around_neck, bell_collar, dog_collar, spiked_collar, studded_collar, cravat, feather_boa, necktie, necktie_between_breasts, necktie_on_head, necktie_pull, necktie_removed, Bolo_tie]}
+				
+			{Limbs: [arms, hands, legs, any parts]}
+			
+				{Arms: [arm_belt, armband, armlet, spiked_armlet, detached_sleeves, arm_warmers, puffy_detached_sleeves, sleeve_garter]} 
+				
+				{Hands: [nails, gloves, cuffs, wrist]} 
+					
+					{Nails: [nail_art, nail_polish, aqua_nails, black_nails, blue_nails, french_nails, green_nails, orange_nails, pink_nails, plaid_nails, purple_nails, red_nails, striped_nails, white_nails, yellow_nails]} 
+					
+					{Gloves: [gloves, boxing_gloves, elbow_gloves, fingerless_gloves, bridal_gauntlets, muff_(handwarmer), spiked_gloves, mittens]}
+					
+					{Wrists: [wristbands, wrist_cuffs]}
+				
+				{Legs: [anklet, leg_belt, wedding_band, toe_ring, barefoot_sandals]} 
+				
+				{Any parts: [bracelet, bangle, spiked_bracelet, ring, lots of jewelry]}
+			
+			{Torso: [belly_chain, belt, buckles, studded_belt, white_belt, cutout, cat_cutout, cleavage_cutout, hip_vent, haramaki, pentacle, piercing, sarong, suspenders, watch, wristwatch, pocket_watch, center_frills]}
+			
+			{Misc (pins, badges, closeures, etc): [aiguillette, badge, buttons, large_buttons, denim, fringe, fur_trim, lace, lace_trim, maedeup, patch, pin, brooch, button_badge, hat_pin, lapel_pin, safety_pin, pom_pom_(clothes), ribbon_trim, rickrack, sequins, silk, tassel, toggle, zipper]}
+			
+		{Piercings: [Location]}
+		
+			{Locations: [General, Head and Face, Torso, Genitals]}
+			
+				{General: [Piercing]}
+				
+				{Head and face: [ear_piercing, helix_piercing, eyebrow_piercing, anti-eyebrow_piercing, eyelid_piercing, lip_piercing, labret_piercing, nose_piercing, bridge_piercing, septum_piercing, tongue_piercing]}
+				
+				{Torso: [areola_piercing, back_piercing, navel_piercing, nipple_piercing, nipple_chain, nipple_rings]}
+				
+				{Genital: [clitoris_piercing, clitoris_ring, labia_piercing, fourchette_piercing, penis_piercing, guiche_piercing, prince_albert, balls_piercing, lorum_piercing]}
+			
+		{Decoration: [Pattern, Prints]}
+		
+			{Patterns: [argyle, asa_no_ha_(pattern), bone_pattern, camouflage, checkered, damask, floral_pattern, fleur_de_lis_pattern, hanairi_kikkou, harlequin_(pattern), hishi_(pattern), honeycomb_pattern, hanairi_kikkou, bishamon_kikkou, houndstooth, ogee, paisley, plaid, polka_dot, sayagata, seigaiha, shippou_(pattern), striped, diagonal_stripes, double_vertical_stripe, horizontal_stripes, multicolored_stripes, pinstripe_pattern, two-tone_stripes, vertical_stripes, unmoving_pattern, yagasuri]}
+			
+			{Prints: [anchor_print, animal_print, bat_print, bear_print, bird_print, crane_print, bunny_print, cat_print, cheetah_print, cow_print, deer_print, dragon_print, fish_print, horse_print, leopard_print, tiger_print, paw_print, snakeskin_print, zebra_print, butterfly_print, cloud_print, egasumi, cross_print, fan_print, flag_print, floral_print, kikumon, rose_print, food_print, candy_print, fruit_print, apple_print, carrot_print, cherry_print, grape_print, lemon_print, orange_print, pineapple_print, watermelon_print, strawberry_print, goshoguruma, hand_print, moon_print, musical_note_print, piano_print, pumpkin_print, skeletal_print, skull_print, snowflake_print, spider_web_print, star_print, trefoil, radiation_symbol, wheel_print, genjiguruma]}
+	
+	{Clothing States: [open clothes, naked clothes, fit of clothes, partially clothed, clothes pull, exposure, damaged clothes, naked]}
+	
+		{Open clothes: [open_clothes, open_jacket, open_shirt, open_blouse, open_track_jacket, open_blazer, open_coat, open_kimono, open_cardigan, open_vest, open_hoodie, open_dress, open_collar, open-chest_sweater, open_shorts, open_bra, open_skirt, open_pants, open_belt, open_robe, open_bodysuit, open_pajamas, open_towel, open_jumpsuit, open_cloak, undone_necktie, unbuttoned, unzipped]}
+		
+		{Naked clothes: [naked_apron, naked_sweater, naked_apron, naked_towel, naked_shirt, naked_shrug, naked_ribbon, naked_jacket, naked_cape, naked_coat, naked_sheet, naked_hoodie, naked_kimono, naked_gakuran, naked_track_jacket, naked_bandage, naked_overalls, naked_scarf, naked_tabard, naked_cloak, naked_suspenders, naked_necktie, naked_chocolate, naked_paint, naked_robe, naked_dogeza, naked_labcoat, naked_capelet, naked_skirt, naked_raincoat, naked_cardigan, naked_armor, naked_socks, naked_belt, naked_vest, naked_randoseru, naked_shoes, naked_gloves, naked_boots, naked_blanket, naked_poncho, naked_hat, naked_hood, naked_costume, naked_bowtie, naked_shawl, naked_backpack]}
+		
+		{Fit of clothes: [off_shoulder, loose_necktie, sleeves_past_wrists, sleeves_pushed_up, taut_shirt, impossible_clothes, oversized_clothes, undersized_clothes, tight_clothes, barely_contained_penis]}
+		
+		{Partially clothed: [topless, bottomless, bikini_bottom_only, bikini_top_only, underwear_only, undressing, skin_showing, playful_covering]}
+		
+		{Clothes pull: [clothes_pull, panty_pull, pants_pull, pantyhose_pull, bikini_pull, skirt_pull, bra_pull, shirt_pull, shorts_pull, dress_pull, strap_pull, leotard_pull,	thighhighs_pull, buruma_pull, kimono_pull, swimwear_pull, jacket_pull, bike_shorts_pull, sweater_pull, pajamas_pull, underwear_pull, suspenders_pull, bikini_bottom_pull, swim_trunks_pull, bodysuit_pull, leggings_pull, swim_briefs_pull, apron_pull, fundoshi_pull, camisole_pull, bikini_top_pull, sports_bra_pull, hakama_pull, kneehighs_pull, overalls_pull, tube_top_pull, jumpsuit_pull, towel_pull, bandeau_pull, sarashi_pull, hoodie_pull, cardigan_pull, vest_pull, nightgown_pull, cloak_pull]}
+
+		{Clothes lift: [flashing, clothes_lift, shirt_lift, skirt_lift, dress_lift, bra_lift, sweater_lift, bikini_top_lift, kimono_lift, bikini_lift, hoodie_lift, strap_lift, apron_lift, sports_bra_lift, panty_lift, panties_lift, jacket_lift, pelvic_curtain_lift, camisole_lift, vest_lift, swimsuit_lift, sarong_lift, pants_lift, hakama_lift, breast_curtain_lift, robe_lift, loincloth_lift, veil_lift, sweater_vest_lift, nightgown_lift, yukata_lift, cardigan_lift, leotard_lift, tube_top_lift, shorts_lift, bikini_bottom_lift, babydoll_lift, pajamas_lift, bandeau_lift, crop_top_lift, tubetop_lift, tabard_lift, tank_top_lift, cloak_lift, towel_lift, tunic_lift, fundoshi_lift, buruma_lift, raincoat_lift, pantyhose_lift, gown_lift, habit_lift, blouse_lift, chemise_lift]}
+		
+		{Exposure: [accidental_exposure, wardrobe_malfunction, pantyshot, implied_pantyshot, pantyshot (kneeling), pantyshot (lying), pantyshot (sitting), pantyshot (squatting), pantyshot (standing), upskirt, pussy_peak]}
+		
+		{Damaged clothes: [burnt clothes, torn clothes]}
+		
+			{Torn clothes: [torn_clothes, torn_legwear, torn_pantyhose, torn_thighhighs, torn_shirt, torn_blouse, torn_pants, torn_dress, torn_skirt, torn_bodysuit, torn_cape, torn_sleeves, torn_shorts, torn_panties, torn_leotard, torn_swimsuit, torn_jeans, torn_gloves, torn_jacket, torn_scarf, torn_ear, torn_bike_shorts, torn_bikini, torn_coat, torn_cloak, torn_hat, torn_bra, torn_bodystocking, torn_socks, torn_kimono, torn_sleeve, torn_ribbon, torn_sweater, torn_boots, torn_vest, torn_capelet, torn_apron, torn_clothing, torn_necktie, torn_bow, torn_tank_top, torn_sports_bra, torn_hoodie, torn_leggings, torn_hakama]}
+			
+			{Burnt clothes: [burnt_clothes]}
+		
+		{Naked: [completely_nude, clothed/nude, casual_nudity, bodypaint, false_clothes]}
+
+	{Styling: [asymmetrical_clothes, casual, cross-laced_clothes, layered_clothes, meme_attire, see-through, see-through, translucent_clothing, skimpy, revealing_clothes]}

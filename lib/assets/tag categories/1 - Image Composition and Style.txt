@@ -1,0 +1,79 @@
+{Image composition and style : [Image composition, Text, Symbols]}
+
+		{Image composition: [Main, Backgrounds, Colors]}
+		
+			{Main: [Angle/Perspective/Depth, Composition, Format, Grouping, Orientation, Framing the body, Styles, Techniques]}
+
+				{Angle/Perspective/Depth: [dutch_angle, fisheye, from_above, from_behind, from_below, perspective, non_male_pov, pov]}
+
+				{Composition: [border/frame, fading_borders, viewfinder, chart, bust_chart, character_chart, character_sheet, diagram, move_chart, popularity_graph, relationship_graph, seating_chart, stats, turnaround, collage, column_lineup, cropped, fake_scrollbar, head_out_of_frame, out-of-frame_censoring, outside_of_border, letterboxed, pillarboxed, windowboxed, lineup, symmetry, mirror_opposites, rotational_symmetry, zoom_layer, projected_inset]}
+
+				{Format: [Type, Source]}
+				
+					{Types: [Covers, Comics, Other]}
+				
+						{Covers: [cover, album_cover, back_cover, blu-ray_cover, box_cover, cover_page, disc_cover, doujin_cover, dvd_cover, fake_cover, front_cover, game_cover, magazine_cover, manga_cover, novel_cover, vhs_cover, volume_cover]}
+						
+						{Comics: [comic, 4koma, 3koma, 5koma, multiple_4koma, doujinshi, manga, eromanga, left-to-right_manga, right-to-left_comic, silent_comic]}
+						
+						{Other: [3d, card_(medium), character_single, icon, logo, kirigami, koikatsu_(medium), lineart, no_lineart, outline, mosaic_art, photomosaic, oekaki, phonecard,  papercraft, paper_child, paper_cut-out, pixel_art, postcard, poster, progression, ad, giant_poster, movie_poster, poster_(object), shitajiki, stitched, tegaki, template, transparent_background, triptych_(art), vector_trace]}
+						
+					{Sources: [artbook, calendar, fake_screenshot, game_cg, game_capture, photo_(medium), promotional_art, official_art, public_service_announcement, screencap]}
+					
+				{Grouping: [series/set, sequential]} 
+				
+				{Orientation: [vert, hori]}
+
+				{Framing the body: [eye_focus, portrait, upper_body, lower_body, cowboy_shot, feet_out_of_frame, full_body, wide_shot, very_wide_shot, close-up, cut-in, head_out_of_frame, profile, group_profile, no_faces]}
+
+				{Styles: [abstract, art_nouveau, fine_art_parody, flame_painter, nihonga, sumi-e, ukiyo-e,realistic, photorealistic, sketch, style_parody, surreal, traditional_media, acrylic_paint_(medium), airbrush_(medium), ballpoint_pen_(medium), brush_(medium), calligraphy_brush_(medium), canvas_(medium), card_(medium), chalk_(medium), charcoal_(medium),colored_pencil_(medium), color_ink_(medium), crayon_(medium), fountain_pen_(medium), faux_traditional_media, gouache_(medium),graphite_(medium), ink_(medium), live_action, marker_(medium), millipen_(medium), nib_pen_(medium), oil_painting_(medium), opencanvas_(medium), paint_(medium), pastel_(medium), pencil_crayon_(medium), porcelain_(medium), watercolor_(medium), watercolor_pencil_(medium), whiteboard_(medium)]}
+
+				{Techniques: [backlighting, blending, bloom, bokeh, caustic_lighting, diffraction_spikes, depth_of_field, dithering, foreshortening, gradient, halftone, lens_flare, motion_blur, motion_lines, multiple_monochrome, optical_illusion, anaglyph, stereogram, scanlines, silhouette, vignetting]}
+
+			{Backgrounds: [Specific background colors, Multiple background colors, Background patterns, More backgrounds]}
+		
+				{Specific background colors: [aqua_background, beige_background, black_background, blue_background, brown_background, green_background, grey_background, orange_background, pink_background, purple_background, red_background, sepia_background, white_background, yellow_background]}
+		
+				{Multiple background colors: [rainbow_background, heaven_condition]} 
+		
+				{Background patterns: [argyle_background, checkered_background, gradient_background, halftone_background, honeycomb_background, plaid_background, polka_dot_background, simple_background, striped_background]}
+		
+				{More backgrounds: [background_text, card_background, chibi_inset, detailed_background, fiery_background, floral_background, fruit_background, heart_background, photo_background, projected_inset, starry_background, tile_background, transparent_background, zoom_layer]}
+
+			{Colors: [Dominant Specific Colors, Dominant Color Palettes, Collections of Specific Colors, Miscellaneous]}
+		
+				{Dominant specific colors: [monochrome, greyscale, aqua_theme, black_theme, blue_theme, brown_theme, green_theme, grey_theme, orange_theme, pink_theme, purple_theme, red_theme, white_theme, yellow_theme]}
+		
+				{Dominant color palettes: [anime_coloring, flat_color, gradient, ff_gradient, greyscale, high_contrast, inverted_colors, monochrome, color_drain, multiple_monochrome, spot_color, muted_color, pale_color, partially_colored, pastels, sepia]}
+			
+				{Collections of specific colors: [rainbow, rainbow_order]} 
+			
+				{Miscellaneous: [color_connection, colorized, colorful, spot_color]}
+
+		{Text: [Literary devices, Specific pieces of text, Actions, Languages, Misc]}
+
+			{Literary devices: [alliteration, onomatopoeia, poem, haiku, profanity, rhyme]}
+			
+			{Specific pieces of text: [A, yes, no, nyan, zzz, ..., !, ?, !!, !?]} 
+			
+			{Actions: [reading, writing]}
+			
+			{Languages: [multilingual, chinese_text, japanese_text, romaji, korean_text, english_text, french_text, german_text, russian_text, spanish_text, hieroglyphics, thai]}
+			
+			{Misc: [background_text, calendar, clothes_writing, detexted, mirror_writing, name_tag, rainbow_text, silent_comic, text_in_eyes, wall_of_text, text_only_page, textless, dialogue]}
+
+		{Symbols: [Geometric shapes, Symbols Of Emotions, Musical Symbols, Playing card, Languages, Letters, Numbers, Punctuation, Currency Symbols, Encodings, Misc symbols]}
+		
+			{Geometric shapes: [circle, crescent, directional_arrow, rectangle, red_cross, star, pentagram, hexagram, star_of_david, heptagram, octagram, star_of_lakshmi, decagram, dodecagram, triangle]}
+		
+			{Symbols of emotions: [^^^, +++, anger_vein, spoken_anger_vein, blush, spoken_blush, heart, playing_card, broken_heart, spoken_heart, squiggle, spoken_squiggle, smiley_face, sweatdrop, spoken_sweatdrop]}
+		
+			{Musical symbols: [bass_clef, g-clef_(suite_precure), musical_note, spoken_musical_note, staff_(music), treble_clef]}
+		
+			{Playing Card: [clubs, diamond_(shape),heart, spade, playing_card_theme]}
+			
+			{Currency symbols: [$, yen_symbol]}
+			
+			{Encodings: [bar_code, qr_code]}
+			
+			{Misc symbols: [ankh, ars_goetia, biohazard_symbol, hammer_and_sickle, lightning-bolt_symbol, prohibited_symbol, ouroboros, peace_symbol, radiation_symbol, skull_and_crossbones, swastika, trigram, yin_yang, infinity_sign, omega_symbol, runes]}

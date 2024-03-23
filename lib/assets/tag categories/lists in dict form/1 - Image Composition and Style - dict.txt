@@ -1,0 +1,40 @@
+{'header': 'Image composition and style ', 'level': 1, 'object': ''}
+{'header': 'Image composition', 'level': 3, 'object': ''}
+{'header': 'Main', 'level': 4, 'object': ''}
+{'header': 'Angle/Perspective/Depth', 'body': 'dutch_angle, fisheye, from_above, from_behind, from_below, perspective, non_male_pov, pov', 'level': 5, 'object': ''}
+{'header': 'Composition', 'body': 'border/frame, fading_borders, viewfinder, chart, bust_chart, character_chart, character_sheet, diagram, move_chart, popularity_graph, relationship_graph, seating_chart, stats, turnaround, collage, column_lineup, cropped, fake_scrollbar, head_out_of_frame, out-of-frame_censoring, outside_of_border, letterboxed, pillarboxed, windowboxed, lineup, symmetry, mirror_opposites, rotational_symmetry, zoom_layer, projected_inset', 'level': 5, 'object': ''}
+{'header': 'Format', 'level': 5, 'object': ''}
+{'header': 'Types', 'level': 6, 'object': ''}
+{'header': 'Covers', 'body': 'cover, album_cover, back_cover, blu-ray_cover, box_cover, cover_page, disc_cover, doujin_cover, dvd_cover, fake_cover, front_cover, game_cover, magazine_cover, manga_cover, novel_cover, vhs_cover, volume_cover', 'level': 7, 'object': ''}
+{'header': 'Comics', 'body': 'comic, 4koma, 3koma, 5koma, multiple_4koma, doujinshi, manga, eromanga, left-to-right_manga, right-to-left_comic, silent_comic', 'level': 7, 'object': ''}
+{'header': 'Other', 'body': '3d, card_(medium), character_single, icon, logo, kirigami, koikatsu_(medium), lineart, no_lineart, outline, mosaic_art, photomosaic, oekaki, phonecard,  papercraft, paper_child, paper_cut-out, pixel_art, postcard, poster, progression, ad, giant_poster, movie_poster, poster_(object), shitajiki, stitched, tegaki, template, transparent_background, triptych_(art), vector_trace', 'level': 7, 'object': ''}
+{'header': 'Sources', 'body': 'artbook, calendar, fake_screenshot, game_cg, game_capture, photo_(medium), promotional_art, official_art, public_service_announcement, screencap', 'level': 6, 'object': ''}
+{'header': 'Grouping', 'body': 'series/set, sequential', 'level': 5, 'object': ''}
+{'header': 'Orientation', 'body': 'vert, hori', 'level': 5, 'object': ''}
+{'header': 'Framing the body', 'body': 'eye_focus, portrait, upper_body, lower_body, cowboy_shot, feet_out_of_frame, full_body, wide_shot, very_wide_shot, close-up, cut-in, head_out_of_frame, profile, group_profile, no_faces', 'level': 5, 'object': ''}
+{'header': 'Styles', 'body': 'abstract, art_nouveau, fine_art_parody, flame_painter, nihonga, sumi-e, ukiyo-e,realistic, photorealistic, sketch, style_parody, surreal, traditional_media, acrylic_paint_(medium), airbrush_(medium), ballpoint_pen_(medium), brush_(medium), calligraphy_brush_(medium), canvas_(medium), card_(medium), chalk_(medium), charcoal_(medium),colored_pencil_(medium), color_ink_(medium), crayon_(medium), fountain_pen_(medium), faux_traditional_media, gouache_(medium),graphite_(medium), ink_(medium), live_action, marker_(medium), millipen_(medium), nib_pen_(medium), oil_painting_(medium), opencanvas_(medium), paint_(medium), pastel_(medium), pencil_crayon_(medium), porcelain_(medium), watercolor_(medium), watercolor_pencil_(medium), whiteboard_(medium)', 'level': 5, 'object': ''}
+{'header': 'Techniques', 'body': 'backlighting, blending, bloom, bokeh, caustic_lighting, diffraction_spikes, depth_of_field, dithering, foreshortening, gradient, halftone, lens_flare, motion_blur, motion_lines, multiple_monochrome, optical_illusion, anaglyph, stereogram, scanlines, silhouette, vignetting', 'level': 5, 'object': ''}
+{'header': 'Backgrounds', 'level': 4, 'object': ''}
+{'header': 'Specific background colors', 'body': 'aqua_background, beige_background, black_background, blue_background, brown_background, green_background, grey_background, orange_background, pink_background, purple_background, red_background, sepia_background, white_background, yellow_background', 'level': 5, 'object': ''}
+{'header': 'Multiple background colors', 'body': 'rainbow_background, heaven_condition', 'level': 5, 'object': ''}
+{'header': 'Background patterns', 'body': 'argyle_background, checkered_background, gradient_background, halftone_background, honeycomb_background, plaid_background, polka_dot_background, simple_background, striped_background', 'level': 5, 'object': ''}
+{'header': 'More backgrounds', 'body': 'background_text, card_background, chibi_inset, detailed_background, fiery_background, floral_background, fruit_background, heart_background, photo_background, projected_inset, starry_background, tile_background, transparent_background, zoom_layer', 'level': 5, 'object': ''}
+{'header': 'Colors', 'level': 4, 'object': ''}
+{'header': 'Dominant specific colors', 'body': 'monochrome, greyscale, aqua_theme, black_theme, blue_theme, brown_theme, green_theme, grey_theme, orange_theme, pink_theme, purple_theme, red_theme, white_theme, yellow_theme', 'level': 5, 'object': ''}
+{'header': 'Dominant color palettes', 'body': 'anime_coloring, flat_color, gradient, ff_gradient, greyscale, high_contrast, inverted_colors, monochrome, color_drain, multiple_monochrome, spot_color, muted_color, pale_color, partially_colored, pastels, sepia', 'level': 5, 'object': ''}
+{'header': 'Collections of specific colors', 'body': 'rainbow, rainbow_order', 'level': 5, 'object': ''}
+{'header': 'Miscellaneous', 'body': 'color_connection, colorized, colorful, spot_color', 'level': 5, 'object': ''}
+{'header': 'Text', 'level': 3, 'object': ''}
+{'header': 'Literary devices', 'body': 'alliteration, onomatopoeia, poem, haiku, profanity, rhyme', 'level': 4, 'object': ''}
+{'header': 'Specific pieces of text', 'body': 'A, yes, no, nyan, zzz, ..., !, ?, !!, !?', 'level': 4, 'object': ''}
+{'header': 'Actions', 'body': 'reading, writing', 'level': 4, 'object': ''}
+{'header': 'Languages', 'body': 'multilingual, chinese_text, japanese_text, romaji, korean_text, english_text, french_text, german_text, russian_text, spanish_text, hieroglyphics, thai', 'level': 4, 'object': ''}
+{'header': 'Misc', 'body': 'background_text, calendar, clothes_writing, detexted, mirror_writing, name_tag, rainbow_text, silent_comic, text_in_eyes, wall_of_text, text_only_page, textless, dialogue', 'level': 4, 'object': ''}
+{'header': 'Symbols', 'level': 3, 'object': ''}
+{'header': 'Geometric shapes', 'body': 'circle, crescent, directional_arrow, rectangle, red_cross, star, pentagram, hexagram, star_of_david, heptagram, octagram, star_of_lakshmi, decagram, dodecagram, triangle', 'level': 4, 'object': ''}
+{'header': 'Symbols of emotions', 'body': '^^^, +++, anger_vein, spoken_anger_vein, blush, spoken_blush, heart, playing_card, broken_heart, spoken_heart, squiggle, spoken_squiggle, smiley_face, sweatdrop, spoken_sweatdrop', 'level': 4, 'object': ''}
+{'header': 'Musical symbols', 'body': 'bass_clef, g-clef_(suite_precure), musical_note, spoken_musical_note, staff_(music), treble_clef', 'level': 4, 'object': ''}
+{'header': 'Card', 'body': 'clubs, diamond_(shape),heart, spade, playing_card_theme', 'level': 4, 'object': ''}
+{'header': 'Currency symbols', 'body': '$, yen_symbol', 'level': 4, 'object': ''}
+{'header': 'Encodings', 'body': 'bar_code, qr_code', 'level': 4, 'object': ''}
+{'header': 'Misc symbols', 'body': 'ankh, ars_goetia, biohazard_symbol, hammer_and_sickle, lightning-bolt_symbol, prohibited_symbol, ouroboros, peace_symbol, radiation_symbol, skull_and_crossbones, swastika, trigram, yin_yang, infinity_sign, omega_symbol, runes', 'level': 4, 'object': ''}

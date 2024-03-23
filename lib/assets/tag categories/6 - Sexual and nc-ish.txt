@@ -1,0 +1,157 @@
+{Sexual: [Sex_acts, Invitations, Orgasm, Sexual positions, Sex Objects]}
+	
+		{Invitations: [paizuri_invitaton, sex_invitaton, oral_invitaton, lap_pillow_invitaton, bed_invitaton]}
+	
+		{Sex acts: [Setting, Contact, Relation, Grouping, Misc]}
+		
+			{Setting: [Before Sex, Mood, Place, After]}
+			
+				{Before Sex: [presenting, presenting_hindquarters, presenting_penis, imminent_anal, imminent_penetration, imminent_vaginal, imminent_sex, penis_towards_viewer]}
+				
+				{Mood: [happy_sex, drunk_sex]}
+				
+				{Place: [underwater_sex, outdoors_sex, public_indecency, public_masturbation, public_sex]}
+				
+				{After: [after_sex, after_anal, after_buttjob, after_fellatio, after_fingering, after_frottage, after_insertion, after_masturbation, after_oral, after_paizuri, after_rape, after_urethral, after_vaginal, clothed_after_sex, afterglow]}
+			
+			{Contact: [Usage, Body Parts, Groping, Eating and Drinking From Body]}
+			
+				{Usage: [deep_penetration, full_penetration, cock_sheath, cock_sleeve, cum_bucket, tingle_shocks, heavy_shocks, flesh_dildo, afterschool_fuck, rough_sex, intense_orgasm, dripping_penis, finger_puppet, clothed_sex, assisted []]} 
+			
+				{Body parts: [Body, Feet, Hair, Hand, Mouth, Tail, Breasts, Butt, Tenticles, Genitals]}
+				
+					{Body: [smother]}
+					
+						{Smother: [smother, asphyxiation, breast_smother, sitting_on_face]}
+				
+					{Feet: [footjob, autofootjob, double_footjob, implied_footjob, multiple_footjob, shoejob, foot_licking, foot_worship, smelling_feet]}
+					
+					{Hair: [hairjob, hair_sex]}
+
+					{Hands: [Handjob, Fingering, Groping, Fisting]}
+				
+						{Handjob: [ball_fondling, double_handjob, multiple_handjob, nursing_handjob, reach_around, two-handed_handjob, pantyjob]}
+			
+						{Fingering: [prostate_milking, fingering_through_clothes, fingering_through_panties, implied_fingering]}
+						
+						{Fisting: [anal_fisting, self_fisting]}
+						
+						{Groping: [butt_grab, breast_grab, guided_breast_grab, clitoris_tweak, nipple_tweak, Clitoris_pull, self_fondle, torso_grab]}
+						
+					{Mouth: [oral, anilingus, breast_sucking, cunnilingus, autocunnilingus, implied_cunnilingus, fellatio, autofellatio, cum_swap, deepthroat, implied_fellatio, irrumatio, multiple_fellatio, sitting_on_face, sucking_balls, ball_lick, kiss during [], kiss_during_sex, saliva_string, kissing, masturbation_during_oral]}
+						
+					{Tail: [tail_insertion, tail_masturbation, tailjob, tail_fetish, tail_play, cum_on_tail, tail_sex, tailjob, tail_penetrating, pussy_juice_on_tail, tailjob_while_penetrated, tail_humping, tailjob_while_penetrating, tail_insertion, tail_suck, tail_grinding, dildo_on_tail, sex_toy_on_tail, precum_on_tail, buttplug_tail, tail_in_pussy, tail_around_penis, tail_in_butt, autotailjob, tail_penetration, painful_insertion]}
+					
+					{Genitals: [Frottage, cervical_penetration, cervical_contact, armpit_sex, grinding, double_grinding, backjob, kneepit_sex, thigh_sex, navel_sex, vaginal_object_insertion, anal_object_insertion, large_insertion, stomach_bulge, food_insertion, multiple_insertions, urethral_insertion, sounding, cervical_penetration, penile, vaginal, double_vaginal, triple_vaginal, knotting, guided_penetration, double_penetration, triple_penetration, penetration_focus, penis_worship, penis_nursing, penis_kissing]}
+
+					{Butt: [Anal, Buttjob]}
+					
+						{Anal: [anal, double_anal, triple_anal, pegging, butt_juice]}
+						
+						{Buttjob: [buttjob, double_buttjob, penis_on_butt]}
+						
+					{Breasts: [Paizuri, Breast Play, Other]}
+					
+						{Paizuri (penis between breasts): [paizuri, multiple_paizuri, naizuri, multiple_naizuri, paizuri_under_clothes, paizuri_over_clothes, reverse_paizuri, perpendicular_paizuri, autopaizuri]}
+						
+						{Breast Play: [breast_feeding, breast_play, breast_smother, multiple_breast_smother,]}
+					
+						{Other: [breast_expansion, lactation]}
+						
+					{Tentacles: [Actions, Attire, Types]}
+					
+						{Actions: [consensual_tentacles, tentacle_gagged, tentacle_job, tentacle_sex, tentacles_in_thighhighs, tentacles_under_clothes, too_many_tentacles]} 
+						
+						{Attire: [tentacle_armor, tentacle_clothes, tentacle_hair, tentacle_piercing, tentacle_underwear]}
+						
+						{Types: [artificial_tentacles, ice_tentacles, invisible_tentacle, mechanical_tentacles, penis_tentacles, tentacle_over_eye, tentacle_pit, tentacle_tongue, vine_tentacle]} 
+					
+				{Eating and drinking from body: [nantaimori, nyotaimori, wakamezake, bust_cup]}
+				
+			{Grouping: [Solo-Ish, Common Group, Group, Overlapping]}
+			
+				{Solo-ish: [Masturbation]}
+				
+					{Masturbation: [clothed_masturbation, crotch_rub, building_sex, pillow_sex, teddy_bear_sex, table_sex, implied_masturbation, mutual_masturbation, tail_masturbation, assisted_masturbation]}
+					
+				{Group: [Group Sex]}
+				
+					{Group Sex: [group_sex, double_penetration, triple_penetration, love_train, multiple_fellatio, multiple_footjob, multiple_breast_smother, orgy, reverse_spitroast, spitroast, teamwork, threesome]}
+					
+				{Common groups: [Duo, Trio]}
+					
+				{Overlapping: [Exhibitionism, Publicity, Stealth, Voyeurism]}
+				
+					{Exhibitionism: [public, public_nudity, nudist, zenra, public_vibrator]} 
+					
+					[Stealth: [stealth_masturbation, hidden_sex, caught, walk-in]}
+					
+					{Voyeurism: [voyeurism, peeping]}
+
+			{Relation: [Age Difference, Queer, Roleplay, Cheating, Sex Work, Incest]}
+			
+				{Age difference: [age_difference, size_difference, younger_male, teenage_girl_and_younger_boy, onee-shota]
+			
+				{Queer: [yaoi, bara, yuri, implied_yuri, tribadism]}
+				
+				{Roleplay: [BDSM, Cumplay]}
+					
+					{BDSM: [BDSM, asphyxiation, bondage, breast_bondage, predicament_bondage, shibari, spreader_bar, suspension, femdom, assertive, sitting_on_face, humiliation, body_writing, public_use, tally, rope_walking, slave, spanked, torture, clitoris_torture, nipple_torture, nipple_pull, tamakeri, tickle_torture, public_humiliation]}
+					
+					{Cum Play: [bukkake, cumdump, cumdrip, cum_pool, cum_everywhere, cum_splatter, cum_in_butt, cum_in_mouth, cum_on_tongue, cum_in_pussy, cum_on_body, cum_on_hair, cum_on_lower_body, cum_on_butt, cum_on_pussy, cum_on_upper_body, cum_on_breasts, cum_on_clothes, cum_on_food, cum_while_penetrated, autofacial, gokkun, cum_on_face]}
+				
+					{Cheating: [cuckolding, netorare, cuckqueen]}
+					
+					{Sex work: [sex work]}
+					
+					{Incest: [incest, twincest]}
+					
+			{Misc: [Misc, Views, Misc Fetishes]}
+			
+				{Misc: [implied_sex, condom_filling, vore, striptease, pole_dancing, pole]}
+			
+				{Views: [cross-section, internal_cumshot, x-ray]}
+				
+				{Misc Fetishes: [condom, used_condom, impregnation, selfcest, smelling, clothes_sniffing, underwear_sniffing, enema, peeing, golden_shower, have_to_pee, peeing_self, pheromone_breathing, pheromones]}
+				
+		{Orgasm: [cumshot, ejaculation, cum, announcing_orgasm]}
+		
+		{Sexual Positions: [Sexual Contact, Bondage]}
+		
+			{Sexual Contact: [Lying, Sitting, Standing, Kneeling, Mixed]}
+			
+				{Lying: [69, prone_bone (penetrated on stomach + penetration lying on top), cowgirl_position, squatting_cowgirl_position, reverse_cowgirl_position, spooning, butterfly_position, leg_glider_position (penetrated on back + penetration holding leg), spoon_position (both on side), mating_press, pearly_gates_position (penetrated while lying back on person), acrobat_position (penetrated while leaning back on person), twisted_spoon_position (spoon position with each facing each other), mermaid_position (penetrated while on back, legs up and crossed), bent spoon position (spoon position with penetrated being turned at some angle), victory_position (penetrated on back with spread legs), spitroast, deep_impact_position (frog legs)]}
+				
+				{Sitting: [lap_dance_position (lap fuck), deck_chair_position (penetration sitting while leaning back), throne_position (penetrated while sitting/reclining), mastery_position (lap dance straddling towards)]}
+				
+				{Standing: [suspended_congress, reverse_suspended_congress, full_nelson, kneeling_oral_position, perching_position, sagittarius_position (penetrated while standing_on_one_leg with bent leg), chair_position (lap dance legs down away), bodyguard_position (penetrated close standing from behind)]}
+				
+				{Kneeling: [saint position (penetrated in wariza leaning forward + penetration while kneeling), prison_guard_position (bent over arms pulled back)]}
+				
+				{Mixed: [doggystyle, t_square_position (penetrated while on side + penetration while straight up), spitroast, upright_straddle, table_lotus_position (penetrated lying on table + penetration while standing), reverse_table_lotus_position (penetrated on stomach on table), sandwich position (enclosed double penetration), deep stick position (penetrated on back while legs up off partners shoulder), arch_position (butterfly with arched back), prisoner_position (penetrated from behind while arms behind back and head on ground), leapfrog_position (doggystyle penetration while leaning forward), piledriver_position (penetrated upside down), fitness_position (penetrated while squatting by kneeling)]}
+			
+		   	{Bondage: [box_tie, bound_arms, bound_feet, bound_legs, bound_calves, bound_knees, bound_thighs, bound_torso, bound_wrists, frogtie, hogtie, separated_arms, separated_legs, separated_wrists, strappado, suspension, restraints, restrained, stationary_restraints]}
+			
+		{Sex objects: [Sex Toys, BDSM / Bondage Gear, Fluids]}
+				
+			{Sex Toys: [anal_beads, anal_beads_tail, penetrable_sex_toy, tenga, breast_pump, butt_plug, butt_plug_tail, aneros, anal_tail, cock_ring, dildo, double_dildo, strap-on, prostate_massager, sex_machine, urethral_beads, vibrator, bunny_vibrator, butterfly_vibrator, egg_vibrator, hitachi_magic_wand, remote_control_vibrator, riding_machine, public_vibrator, sybian, vibrator_in_anus, vibrator_in_thighhighs, vibrator_on_nipple, Vibrator_under_panties, vibrator_on_penis, vibrator_under_clothes, vibrator_under_panties]}
+				
+			{BDSM / Bondage Gear: [blindfold, bondage_outfit, chain, chastity_belt, clitoris_clamp, nipple_clamps, Pussy_clamp, tongue_clamp, collar, cuffs, shackles, handcuffs, gag, ball_gag, bit_gag, cleave_gag, panty_gag, plug_gag, ring_gag, tape_gag, open_mouth_gag, gimp_suit, leash, clitoris_leash, nose_hook, pillory, stocks, rope, crotch_rope, spreader_bar, whip, riding_crop, wooden_horse, penis_milking_machine]}
+				
+			{Fluids: [aphrodisiac, enema, lube]}
+				
+{NC-ish: [Greycon, Unwanted State, Co-Orced, Not Fully Conscious, Altered Mind, Molestation, Rape]
+
+	{Greycon: [questionable_consent, forceful_sex]}
+		
+	{Unwanted state: [casual_cruelty, captured, explicitly_stated_nonconsent, defeat,  instant_loss], struggling, helpless]}
+
+	{Co-orced: [blackmail]}
+	
+	{Not fully conscious: [sleep_molestation]}
+
+	{Altered mind: [mind_control, brainwashing, corruption, mind_break, mindwipe, love_potion]}
+
+	{Molestation: [forced, forced_orgasm, forced_to_watch, forced_kiss, forced_masturbation, forced_exposure, molestation, chikan, compensated_molestation, sexual_objectification, forced_exhibitionism. forced_ejaculation]}
+
+	{Rape: [rape, imminent_rape, broken_rape_victim, forced_cowgirl_position, forced_oral, domesticated, forced_to_cum_inside, rape_to_exhaustion, rape_to_completion, rejected_pullout, assisted_rape, group_rape, until_they_like_it, mutual_rape]}

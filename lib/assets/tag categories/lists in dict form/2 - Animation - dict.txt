@@ -1,0 +1,8 @@
+{'header': 'Animation', 'level': 1, 'object': ''}
+{'header': 'Videos', 'body': 'video, looping_animation, scene, sound, no_sound', 'level': 2, 'object': ''}
+{'header': 'Sounds', 'level': 2, 'object': ''}
+{'header': 'Voice', 'level': 3, 'object': ''}
+{'header': 'Tone', 'body': 'raspy, muffled_voice', 'level': 4, 'object': ''}
+{'header': 'Moaning', 'body': 'intense_moaning, ragged_moaning, heavy_moaning, low_moaning, soft_moaning, sensitive_moans', 'level': 4, 'object': ''}
+{'header': 'Other noises', 'body': 'wet_sounds, plap, oral_sounds', 'level': 3, 'object': ''}
+{'header': 'Other', 'body': 'animated, song, animated_gif', 'level': 2, 'object': ''}

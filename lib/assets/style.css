@@ -1,0 +1,24 @@
+* {
+background-color: #225599;
+font-family: Comfortaa;
+}
+
+QGroupBox::title {
+color: #EEE;
+}
+
+QCheckBox {
+color: #CCC;
+font-family: Comfortaa;
+font-size: 13px;
+background-color: rgba(0, 0, 0, .1);
+}
+
+QCheckBox:hover {
+background-color: rgba(0, 0, 0, .5);
+color: white;
+}
+
+QCheckBox::checked {
+background-color:  rgba(0, 0, 0, .6);
+}

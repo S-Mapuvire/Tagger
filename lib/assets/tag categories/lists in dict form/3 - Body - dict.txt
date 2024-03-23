@@ -1,0 +1,181 @@
+{'header': 'Body', 'level': 1, 'object': ''}
+{'header': 'Body types', 'level': 2, 'object': ''}
+{'header': 'Age', 'body': 'young, loli, shota, oppai_loli, teen, cub, older', 'level': 3, 'object': ''}
+{'header': 'Size', 'body': 'giant, mini', 'level': 3, 'object': ''}
+{'header': 'Shape', 'body': 'curvy, skinny, slim, plump, muscular, toned, petite, chubby', 'level': 3, 'object': ''}
+{'header': 'State', 'body': 'pregnant, extra_arms, robot_girl', 'level': 3, 'object': ''}
+{'header': 'Anthropomorphic', 'body': 'anthro, anthro_focus, anthro_on_anthro, feral, feral_focus', 'level': 3, 'object': ''}
+{'header': 'Body parts', 'level': 2, 'object': ''}
+{'header': 'Parts', 'level': 3, 'object': ''}
+{'header': 'Head', 'level': 4, 'object': ''}
+{'header': 'Ears', 'level': 5, 'object': ''}
+{'header': 'Styles', 'body': 'kemonomimi, bat_ears, bear_ears, bunny_ears, cat_ears, cow_ears, deer_ears, dog_ears, ermine_ears, ferret_ears, fox_ears, goat_ears, horse_ears, kemonomimi_mode, lion_ears, monkey_ears, mouse_ears, panda_ears, pikachu_ears, pig_ears, raccoon_ears, reindeer_ears, sheep_ears, squirrel_ears, tiger_ears, wolf_ears, pointy_ears, robot_ears, extra_ears', 'level': 6, 'object': ''}
+{'header': 'Accessories', 'body': 'ear_protection, earrings, single_earring, headphones, pen_behind_ear, pencil_behind_ear', 'level': 6, 'object': ''}
+{'header': 'Misc', 'body': 'covering_ears, ear_biting, ear_licking, ear_grab, hand_on_ear, ear_pull', 'level': 6, 'object': ''}
+{'header': 'Eyes', 'level': 5, 'object': ''}
+{'header': 'Iris', 'level': 6, 'object': ''}
+{'header': 'Individual colors of the iris', 'body': 'aqua_eyes, black_eyes, blue_eyes, brown_eyes, amber_eyes, light_brown_eyes, gold_eyes, green_eyes, grey_eyes, hazel_eyes, orange_eyes, pink_eyes, purple_eyes, lavender_eyes, red_eyes, maroon_eyes, silver_eyes, white_eyes, yellow_eyes, magenta_eyes', 'level': 7, 'object': ''}
+{'header': 'Multiple colors of the iris', 'body': 'hazel_eyes, heterochromia, multicolored_eyes', 'level': 7, 'object': ''}
+{'header': 'Form of the iris', 'body': 'spiral_eyes, pac-man_eyes, ringed_eyes', 'level': 7, 'object': ''}
+{'header': 'Pupils', 'level': 6, 'object': ''}
+{'header': 'Form of the pupils', 'body': 'constricted_pupils, multiple_pupils, slit_pupils, symbol-shaped_pupils, +_+, heart-shaped_pupils, star-shaped_pupils, no_pupils', 'level': 7, 'object': ''}
+{'header': 'Sclera', 'body': 'blue_sclera, black_sclera, bloodshot_eyes, green_sclera, grey_sclera, orange_sclera, pink_sclera, red_sclera, yellow_sclera, mismatched_sclera', 'level': 6, 'object': ''}
+{'header': 'Around the eyes', 'body': 'bags_under_eyes, black_eye, burning_eyes, glowing_eyes, glowing_eye', 'level': 6, 'object': ''}
+{'header': 'Styles', 'body': 'amphibian_eyes, button_eyes, cephalopod_eyes, compound_eyes, frog_eyes, goat_eyes, empty_eyes, heart_eyes, solid_circle_eyes, o_o, 0_0, |_|, tareme, tsurime, sanpaku, sharingan, mangekyou_sharingan, eye_reflection, text_in_eyes', 'level': 6, 'object': ''}
+{'header': 'Number of eyes', 'body': 'extra_eyes, missing_eye, one-eyed, cyclops, third_eye, multiple_eyes, no_eyes', 'level': 6, 'object': ''}
+{'header': 'Emotions and expressions', 'body': '>_<, x3, xd, o_o, 0_0, 3_3, @_@, ^_^, |_|, ||_||, =_=, +_+, ._.', 'level': 6, 'object': ''}
+{'header': 'One or two eyes closed', 'body': 'blinking, eyes_closed, half-closed_eyes, wince, wink: [;<, ;p', 'level': 6, 'object': ''}
+{'header': 'Accessories', 'body': 'covering_eyes, hair_over_eyes, hair_over_one_eye, bandage_over_one_eye, blindfold, hat_over_eyes, eyepatch, eyes_visible_through_hair,glasses', 'level': 6, 'object': ''}
+{'header': 'Actions', 'body': 'akanbe, blind, drawn_on_eyes, eyeball, eye_beam, eye_contact, eye_poke, eye_pop, flat_gaze, looking_afar, looking_at_another, looking_at_viewer, looking_away, looking_down, looking_up,matching_hair/eyes, persona_eyes, shading_eyes, squinting, staring, uneven_eyes, wide-eyed, wince', 'level': 6, 'object': ''}
+{'header': 'Face', 'level': 5, 'object': ''}
+{'header': 'Emotions', 'level': 6, 'object': ''}
+{'header': 'Happy', 'level': 7, 'object': ''}
+{'header': 'Intense', 'level': 8, 'object': ''}
+{'header': 'Excited', 'body': 'laughing, looking_pleasured', 'level': 9, 'object': ''}
+{'header': 'Calm', 'body': 'happy, smug, smirk, light_smile, evil_smile, grin, evil_grin', 'level': 9, 'object': ''}
+{'header': 'Emotes', 'body': ':D (wide open mouth smile), ;D (wide open mouth smile while winking), XD (Laughing), >:D (defiant smile with mouth wide open), :p (smiling with tongue out), ;p (winking with tongue out),  >:) (smiling with furrowed brows and closed mouth),  x3 (>_< + :3 = X3, Used when suppressing laughter, seeing something really cute, etc.), ^_^, ^o^', 'level': 8, 'object': ''}
+{'header': 'Dismayed', 'level': 7, 'object': ''}
+{'header': 'Intense', 'body': 'horrified, pained_expression', 'level': 8, 'object': ''}
+{'header': 'Excited', 'body': 'scared, frown, enduring_face', 'level': 8, 'object': ''}
+{'header': 'Calm', 'body': 'sad, Sad_smile, gloom_(expression)', 'level': 8, 'object': ''}
+{'header': 'Emotes', 'body': 'd: [ D: ] (sad face with mouth agape)', 'level': 8, 'object': ''}
+{'header': 'Upset', 'level': 7, 'object': ''}
+{'header': 'Intense', 'level': 8, 'object': ''}
+{'header': 'Excited', 'body': 'angry, anger_vein, annoyed, threaten', 'level': 9, 'object': ''}
+{'header': 'Calm', 'body': 'pout, sulking, awkward_smile', 'level': 9, 'object': ''}
+{'header': 'Emotes', 'body': '>:( (displeasure/dissatisfaction, or greatly annoyed or grumpiness), 3: (frowning cat face)', 'level': 8, 'object': ''}
+{'header': 'Disinterested', 'level': 7, 'object': ''}
+{'header': 'Expressions', 'body': 'bored, distant_look, expressionless', 'level': 9, 'object': ''}
+{'header': 'Emotes', 'body': ':/ (ambivalence)', 'level': 8, 'object': ''}
+{'header': 'Surprised', 'level': 7, 'object': ''}
+{'header': 'Intense', 'body': 'shocked', 'level': 8, 'object': ''}
+{'header': 'Excited', 'body': 'Food_awe, Breast_awe, Penis_awe', 'level': 8, 'object': ''}
+{'header': 'Calm', 'body': 'surprised', 'level': 8, 'object': ''}
+{'header': 'Emotes', 'body': '^^^ (surprise, understanding or shock), o3o (loose or protruding lips, usually as a face fault.), (-3-), o_o, 0_0 (surprise or shock)', 'level': 8, 'object': ''}
+{'header': 'Sexual', 'level': 7, 'object': ''}
+{'header': 'Intense', 'level': 8, 'object': ''}
+{'header': 'Excited', 'body': 'torogao, rape_face, panting', 'level': 9, 'object': ''}
+{'header': 'Calm', 'body': 'naughty_face, seductive_smile, bedroom_eyes', 'level': 8, 'object': ''}
+{'header': 'Emotes', 'body': ':>=, <3_eyes, <3', 'level': 8, 'object': ''}
+{'header': 'Any state', 'level': 7, 'object': ''}
+{'header': 'Intense', 'body': 'clenched_teeth, scream, tears, rolling_eyes, overwhelmed', 'level': 8, 'object': ''}
+{'header': 'Excited', 'body': 'blush, furrowed_brow, embarrassed, nosebleed', 'level': 8, 'object': ''}
+{'header': 'Calm', 'body': 'blush_stickers, closed_eyes, evil, fingersmile, forced_smile, confused, drunk, facepalm, open_mouth, parted_lips, raised_eyebrow, serious, sigh, sleepy, troll_face, wink, wince, entranced', 'level': 8, 'object': ''}
+{'header': 'Emotes', 'body': ' :}, :3 (cat face), ;3,, >:3 (devious cat face), :q (aka :9/licking lips), ;q, :t (mouth closed with puffed cheek), ♥_♥, ^q^ (also covers ^p^), >_< (eyes shut really tight), ;_;, :o (circle shaped mouth), ;o (mouth open one eye closed), :x (for plushies or meaning tight-lipped),', 'level': 8, 'object': ''}
+{'header': 'Neutral', 'level': 7, 'object': ''}
+{'header': 'Expressions', 'body': 'thinking', 'level': 8, 'object': ''}
+{'header': 'Emotes', 'body': ' @_@ (swirly eyes), +_+, =_= (squinty eyes), :i [ :I ], :|, >:|, :c, c:, :<, ;<, >:<, :<>, :>, :>=, ;>=, >:o, |_| (vertical lines for eyes), ||_|| (thick vertical lines for eyes), ._. (dots for eyes), •_• (See: solid_circle_eyes), <o><o>, ', 'level': 8, 'object': ''}
+{'header': 'Hair', 'level': 5, 'object': ''}
+{'header': 'Hair color', 'body': 'aqua_hair, black_hair, blonde_hair, blue_hair, brown_hair, light_brown_hair, green_hair, grey_hair, orange_hair, pink_hair, purple_hair, lavender_hair, red_hair, silver_hair, white_hair, multicolored_hair, gradient_hair, highlights, two-tone_hair, rainbow_hair, colored_inner_hair', 'level': 6, 'object': ''}
+{'header': 'Length and volume', 'body': 'short_hair, medium_hair, long_hair, very_long_hair, big_hair, bald, asymmetrical_hair, side_shave (side-cut), undercut, hair_down, hair_up', 'level': 6, 'object': ''}
+{'header': 'Hairstyles', 'level': 6, 'object': ''}
+{'header': 'Hair texture', 'body': 'curly_hair, ringlets, drill_hair, twin_drills, flipped_hair, messy_hair, pointy_hair, spiked_hair, wavy_hair, finger_wave', 'level': 7, 'object': ''}
+{'header': 'Front of the head', 'body': 'bang, asymmetrical_bangs, baby_bangs, blunt_bangs, bumper_bangs, fringe, hair_over_eyes, hair_over_one_eye, parted_bangs, swept_bangs, curtained_hair, hair_between_eyes, hair_intakes, widows_peak', 'level': 7, 'object': ''}
+{'header': 'Top of the head', 'body': 'ahoge, heart_ahoge, huge_ahoge, antenna_hair, fauxhawk, hair_slicked_back, mohawk, side_part, victory_rolls, zigzag_part', 'level': 7, 'object': ''}
+{'header': 'Head hair over the body', 'body': 'hair_censor, Hair_bikini, Hair_in_mouth, Hair_over_breasts, Hair_over_shoulder, Hair_scarf', 'level': 7, 'object': ''}
+{'header': 'Tied hair', 'body': 'braid, crown_braid, dutch_braid, fishtail_braid, front_braid, long_braid, side_braid, french_braid, single_braid, multiple_braids, ladder_braid, twin_braids, tri_braids, quad_braids, fauxhawk, hair_bun, braided_bun, double_bun, hair_rings, half_updo, one_side_up, two_side_up, low-tied_long_hair, multi-tied_hair, ponytail, front_ponytail, high_ponytail, short_ponytail, long_ponytail, side_ponytail, topknot, twintails, low_twintails, short_twintails, uneven_twintails, tri_tails, quad_tails, quin_tails', 'level': 7, 'object': ''}
+{'header': 'Short hair', 'body': 'bob_cut, bowl_cut, buzz_cut, crew_cut, pixie_cut, quiff', 'level': 7, 'object': ''}
+{'header': 'Long hair', 'body': 'cornrows, hairlocs, hime_cut, mullet, ringlets', 'level': 7, 'object': ''}
+{'header': 'Tall hair', 'body': 'afro, huge_afro, pompadour, shouten_pegasus_mix_mori', 'level': 7, 'object': ''}
+{'header': 'Fantasy', 'body': 'prehensile_hair, helicopter_hair, tentacle_hair, living_hair, flaming_hair, pseudo_hair', 'level': 7, 'object': ''}
+{'header': 'Accessories', 'body': 'hair_brush, hair_dryer, shampoo, bun_cover, hairpods, chopsticks, hair_ornament, crescent_hair_ornament, hair_bell, hair_bobbles, hair_bow, hair_ribbon, hairclip, hairpin, hair_comb, hair_flower, hair_tubes, kanzashi, hairband, hair_weapon, headband, scrunchie, wig, gache', 'level': 6, 'object': ''}
+{'header': 'Actions', 'body': 'hairdressing, cutting_hair, hair_brushing, heartbreak_haircut, hand_in_hair, adjusting_hair, bunching_hair, hair_flip, hair_grab, hair_pull, hair_tucking, hair_tussle, hair_twirling', 'level': 6, 'object': ''}
+{'header': 'Misc', 'body': 'floating_hair, hair_spread_out, wet_hair', 'level': 6, 'object': ''}
+{'header': 'Other', 'body': 'forehead_mark, mustache, head_wings, tongue, long_tongue', 'level': 5, 'object': ''}
+{'header': 'Shoulders', 'level': 4, 'object': ''}
+{'header': 'Neck', 'level': 5, 'object': ''}
+{'header': 'Anatomy of the neck', 'body': 'collarbone, nape, long_neck', 'level': 6, 'object': ''}
+{'header': 'Contact', 'body': 'arm_around_neck, arms_around_neck, hand_on_anothers_neck, hand_on_own_neck, neck_biting, necking, neck_kiss', 'level': 6, 'object': ''}
+{'header': 'Shoulders', 'level': 5, 'object': ''}
+{'header': 'Anatomy', 'body': 'broad_shoulders, shoulder_blades', 'level': 6, 'object': ''}
+{'header': 'Contact', 'level': 6, 'object': ''}
+{'header': 'Hands/arms', 'body': 'arm_around_neck, arms_around_neck, arm_on_shoulder, hand_on_shoulder, hands_on_shoulder, hands_on_shoulders, shoulder_massage', 'level': 7, 'object': ''}
+{'header': 'Shoulders', 'body': 'person_over_both_shoulders, person_over_shoulder, piggyback, shoulder_carry, standing_on_shoulder, bird_on_shoulder, cat_on_shoulder, hair_over_shoulder', 'level': 7, 'object': ''}
+{'header': 'Torso', 'level': 4, 'object': ''}
+{'header': 'Torso', 'level': 5, 'object': ''}
+{'header': 'Other parts', 'body': 'areolae, large_areolae, glands_of_montgomery, armpits, back', 'level': 6, 'object': ''}
+{'header': 'Nipples', 'body': 'dark_nipples, erect_nipples, inverted_nipples, puffy_nipples, small_nipples', 'level': 6, 'object': ''}
+{'header': 'Breasts', 'level': 6, 'object': ''}
+{'header': 'Breast size', 'level': 7, 'object': ''}
+{'header': 'Range of breast sizes', 'body': 'small_breasts, big_breasts, medium_breasts, large_breasts, huge_breasts, gigantic_breasts', 'level': 8, 'object': ''}
+{'header': 'Scenes revolving around breast sizes', 'body': 'breast_envy, breast_expansion, breast_padding, bust_chart, bust_measuring', 'level': 8, 'object': ''}
+{'header': 'Visiblity', 'level': 7, 'object': ''}
+{'header': 'Visible parts of breasts', 'body': 'backboob, bursting_breasts, center_opening, cleavage, cleavage_cutout, heart_cleavage_cutout, nippleless_clothing, nipple_slip, side_cleavage, undercleavage, deep_cleavage', 'level': 8, 'object': ''}
+{'header': 'Whole breasts visible', 'body': 'breast_slip, breastless_clothes, breasts_outside, impossible_shirt, one_breast_out', 'level': 8, 'object': ''}
+{'header': 'Descriptions of breasts', 'body': 'bouncing_breasts, breasts_apart, floating_breasts, hanging_breasts, perky_breasts, sagging_breasts, unaligned_breasts', 'level': 8, 'object': ''}
+{'header': 'Clothes for breasts', 'body': 'bra, hand_in_bra, bustier, corset, taut_shirt', 'level': 8, 'object': ''}
+{'header': 'Breasts and other body parts', 'level': 7, 'object': ''}
+{'header': 'Breast contact', 'body': 'breast_smother, multiple_breast_smother, breast_pillow, self_pillow, breasts_on_head, head_between_breasts, breast_feeding, breast_licking, breast_sucking, self_breast_sucking, arm_between_breasts, breast_hold, breast_lift, breast_poke, breast_press, breast_squeeze, breasts_squeezed_together, breast_suppress, grabbing_anothers_breast, guided_breast_grab, grabbing_own_breast, arm_between_breasts, hand_in_bra, breast_grab, nipple_tweak', 'level': 8, 'object': ''}
+{'header': 'Docking (breasts on breasts)', 'body': 'asymmetrical_docking, symmetrical_docking, nipple_to_nipple', 'level': 8, 'object': ''}
+{'header': 'Between_breasts', 'body': 'card_between_breasts, hand_between_breasts, head_between_breasts, necktie_between_breasts', 'level': 8, 'object': ''}
+{'header': 'Misc', 'body': 'strap_cleavage, breast_bondage, breast_mousepad, breast_rest, bust_cup, covering_breasts, cum_on_breasts, lactation, lactation_through_clothes, autolactation, milk_squirt, milking, nipple_piercing, areola_piercing, nipple_rings', 'level': 8, 'object': ''}
+{'header': 'Torso', 'level': 5, 'object': ''}
+{'header': 'General', 'body': 'anus, belly, dimples_of_venus, foreskin, hips, wide_hips, mound_of_venus, pubic_hair', 'level': 6, 'object': ''}
+{'header': 'Specific', 'level': 6, 'object': ''}
+{'header': 'Penis', 'level': 7, 'object': ''}
+{'header': 'Parts', 'body': 'penis, foreskin, glans, penile_spines, knot, equine_penis, penis_focus', 'level': 8, 'object': ''}
+{'header': 'State', 'body': 'flaccid, small_penis, big_penis, large_penis, huge_penis, hyper_penis, gigantic_penis, bouncing_penis, throbbing_penis, glistening_penis, erection, erection_under_clothes', 'level': 8, 'object': ''}
+{'header': 'Fluids', 'body': 'precum, leaking_precum, leaking, precum_string, precum_drip, precum_through_clothing, precum_squirt, precum_pool, lots_of_precum', 'level': 8, 'object': ''}
+{'header': 'Adornments', 'body': 'chastity_cage, wearing_condom, penis_ribbon, penis_accessory', 'level': 8, 'object': ''}
+{'header': 'Balls', 'body': 'big balls', 'level': 7, 'object': ''}
+{'header': 'Pussy', 'level': 7, 'object': ''}
+{'header': 'Visible parts', 'body': 'clitoris, erect_clitoris, pubic_hair, pussy, clitoris_slip, partially_visible_vulva, pussy_peek, plump_labia, pussy_focus, pussy_blush, innie_pussy', 'level': 8, 'object': ''}
+{'header': 'Pussy under clothes', 'body': 'cameltoe, spread_pussy_under_clothes', 'level': 8, 'object': ''}
+{'header': 'Hands on pussy', 'body': 'covering_crotch, hand_between_legs, spread_pussy', 'level': 8, 'object': ''}
+{'header': 'Fluids', 'body': 'pussy_juice, pussy_juice_spray, pussy_juice_stain, pussy_juice_drip, pussy_juice_string, pussy_juice_drip_through_clothes, pussy_juice_puddle, pussy_juice_trail, pussy_juice_on_penis, pussy_juice_on_ground, pussy_juice_on_leg, pussy_juice_leaking, pussy_juice_on_tongue, pussy_juice_on_tail, pussy_juice_on_pussy, pussy_juice_on_dildo, pussy_juice_on_face, pussy_juice_splatter, pussy_juice_on_hand, pussy_juice_through_clothes', 'level': 8, 'object': ''}
+{'header': 'Adornments', 'body': 'clitoris_piercing, clitoris_ring, bandaid_on_pussy, maebari', 'level': 8, 'object': ''}
+{'header': 'Tail', 'level': 7, 'object': ''}
+{'header': 'Main', 'body': 'Tail', 'level': 8, 'object': ''}
+{'header': 'Number of tails', 'body': 'multiple_tails, no_tail, 2_tails, 3_tails, 4_tails, 5_tails, 6_tails, 7_tails, 8_tails, 9_tails', 'level': 8, 'object': ''}
+{'header': 'Types of tail', 'level': 8, 'object': ''}
+{'header': 'Mammal', 'body': 'mouse_tail, horse_tail, squirrel_tail, cat_tail, rat_tail, wolf_tail, monkey_tail, raccoon_tail, fox_tail, skunk_tail, tiger_tail, otter_tail, badger_tail, beaver_tail, equine_tail, bear_tail, bunny_tail, cow_tail, deer_tail, dog_tail, leopard_tail, pig_tail, sheep_tail, bovine_tail, whale_tail, goat_tail, elephant_tail', 'level': 9, 'object': ''}
+{'header': 'Reptile', 'body': 'dragon_tail, snake_tail, lizard_tail, crocodile_tail, reptilian_tail', 'level': 9, 'object': ''}
+{'header': 'Fish', 'body': 'fish_tail, shark_tail, tadpole_tail', 'level': 9, 'object': ''}
+{'header': 'Magical', 'body': 'demon_tail, ghost_tail, mermaid_tail', 'level': 9, 'object': ''}
+{'header': 'Other', 'body': 'pikachu_tail, pseudo_tail, usb_tail, scorpion_tail', 'level': 9, 'object': ''}
+{'header': 'Styling', 'body': 'tail_markings, fluffy_tail, dipstick_tail, long_tail, short_tail, tail_tuft, multi_tail, thick_tail, big_tail, striped_tail, scut_tail, tail_feathers, spade_tail, unusual_tail, ringtail, flaming_tail, curled_tail, spiked_tail, small_tail, , tail_jewelry, tail_fin, tail_ring, tail_ribbon, tail_wraps, tail_bow, tailband, tail_mouth, spotted_tail, prehensile_tail, huge_tail, forked_tail, fake_tail, tapering_tail, tail_heart, pointed_tail, wavy_tail, cotton_tail, heart_tail,  tail_frill, nub_tail, braided_tail, glowing_tail, feathered_tail, hyper_tail, cosmic_tail, tail_stripes, cybernetic_tail, translucent_tail, balloon_tail, bone_tail, stinger_tail, electrical_plug_tail, crystaline_tail, flat_tail, hooked_tail, shaved_tail, banded_tail, ethereal_tail, cable_tail, curved_tail, tail_blade, tail_mane, tail_hand, messy_tail, fuzzy_tail, flowing_tail, heart_spade_tail, mechanical_tail, clubbed_tail, flower_tail, metal_tail, fiery_tail, sharp_tail, star_tail, paintbrush_tail, thin_tail, pom_pom_tail, glittering_tail, transparent_tail, plant_tail', 'level': 8, 'object': ''}
+{'header': 'Color', 'body': 'brown_tail, grey_tail, yellow_tail, blue_tail, black_tail, orange_tail, pink_tail, purple_tail, rainbow_tail, red_tail, white_tail, green_tail, multicolored_tail, monotone_tail, two_tone_tail, gradient_tail', 'level': 8, 'object': ''}
+{'header': 'Tail action', 'body': 'raised_tail, tail_motion, tailwag, tail_grab, holding_tail, entwined_tails, tail_coil, tail_bite, tail_gesture, tail_hug, tail_between_legs, tail_grapple, tail_wrapping, bouncing_tail, tail_hold, tail_hugging, collaborative_tail_heart, brushing_tail, heart_tail_duo, censor_tail, holding_anothers_tail, holding_own_tail, intertwined_tails, panties_around_tail, tail_chair, tail_fondling, tail_pull, tail_stand, tail_wrap, tail_aside, tail_tied, tail_bondage, chasing_own_tail, stiff_tail, tail_in_mouth, hand_on_tail, tail_around_leg, tail_upskirt, tail_in_water, tail_wrapped, sitting_on_tail, coiled_tail, balancing_on_tail, tail_fluff, hanging_by_tail, lifted_by_tail, tail_tenting, tail_holding_object, tail_down, tail_sway, tail_embrace, tail_wiggle, tail_slap, twitching_tail', 'level': 8, 'object': ''}
+{'header': 'Misc', 'body': 'tail_curl, tail_on_ground, tail_around_neck, tail_around_waist, tail_collar, tail_lick, inconvenient_tail, tail_ornament, tail_on_leg, tail_garter, tail_on_shoulder, tail_wrapped_around, round_tail, holding_own_tail, tail_orb, tail_restraint, tail_bulge, tail_covering_crotch, tail_around_arm, writing_on_tail, neck_to_tail_bondage, pride_color_tail, holding_object_with_tail, supported_tail, brush_tail, tail_under_leg, standing_on_tail, tail_expansion, tapered_tail, holding_tail_up, waving_tail, foot_on_tail, panties_around_tail, hand_on_own_tail, hands_on_tail, teasing_with_tail, furred_tail, tail_around_body, looking_at_tail, held_by_tail, spiral_tail, bobtail, tail_whip, tail_around_another, tail_burst, tail_around_pole, tail_flick, mace_tail, stripped_tail, tail_ovipositor, tail_pillow, tail_over_shoulder, tail_under_clothing, riding_on_tail, glowing_tail_tip, lying_on_tail, ridged_tail, fan_tail, hook_tail, tail_scales, tail_swirl, tucked_tail, holding_by_tail, tail_strap, carrying_tail, stepping_on_tail, tail_curled, tailblade, tail_between_buttocks, tail_bun, threaded_by_tail, freckles_on_tail, swinging_tail, puffed_tail, curling_tail, lowered_tail, floating_tail, laying_on_tail, tail_between_breasts, tail_star, tail_rub, robotic_tail, paddle_tail, missing_tail_tip, , tail_beads, cuddling_tail, tail_leash, tail_shock, tail_squeeze, tail_on_face, detachable_tail, panties_on_tail, tail_squish, tail_on_head, straddling_tail, taped_tail, resting_on_tail, tail_around_head, tail_tug, tail_around', 'level': 8, 'object': ''}
+{'header': 'Accessories', 'body': 'tail_accessory, tail_belt, tail_bag, tail_clothing, tail_piercing, tail_bell, tail_ring_(piercing), gold_tail_ring, tail_cuff, tail_cover, tail_warmer, tail_sleeve, bandaged_tail, tail_bell, tail_bow, tail_ornament, tail_piercing, tail_ribbon, tail_ring, tail_bracelet, tail_pouch', 'level': 8, 'object': ''}
+{'header': 'Butt', 'level': 7, 'object': ''}
+{'header': 'Anatomy', 'body': 'butt, butt_expansion, big_butt, huge_butt, large_butt, small_butt, butt_focus, mole_on_butt, butt_crack, wedgie, self_wedgie', 'level': 8, 'object': ''}
+{'header': 'Anus', 'body': 'Anus, Spread anus', 'level': 8, 'object': ''}
+{'header': 'Contact', 'body': 'butt_grab, covering_butt, face_in_butt, hand_on_butt, hand_on_own_butt, hand_on_anothers_butt, hands_on_anothers_butt, hands_on_own_butt, butt_biting, butt_sniff, head_on_butt, squeezing_butt, grabbing_own_butt, grabbing_anothers_butt, butt-to-butt, butt_press, butt_smack, red_butt, spread_butt', 'level': 8, 'object': ''}
+{'header': 'Misc', 'body': 'anal_hook, butt_on_glass, butt_shake, bouncing_butt', 'level': 8, 'object': ''}
+{'header': 'Appendages', 'level': 5, 'object': ''}
+{'header': 'Joints', 'body': 'doll_joints, robot_joints', 'level': 6, 'object': ''}
+{'header': 'Legs', 'body': 'bare_legs, long_legs, thick_thighs, spread_legs, crossed_legs, raised_leg, legs_over_head, legs_up, leg_markings, legs_tied, on_one_leg, long_legs, hand_on_leg, highleg, bent_legs, holding_leg, bent_leg, leg_grab, bare_legs, one_leg_up, hands_on_legs, on_hind_legs, looking_through_legs, tail_around_leg, legs_behind_head, leg_tuft, legs_together, leg_spreader, hand_between_legs, hands_between_legs, prosthetic_leg, shaking_legs, legs_around_partner, holding_legs_up, legs_in_water, cybernetic_leg, bent_over_with_legs_held_straight, raised_leg_grab, hands_under_legs, hands_on_own_legs, legs_over_edge, leg_over_edge, extended_legs, extended_leg, planted_legs, restrained_legs, straight_leg, holding_raised_leg, hand_on_own_leg, holding_legs_back, straight_legs, leg_over_thigh, planted_leg, hiked_leg, light_legs, partially_submerged_legs, submerged_legs, holding_both_legs, grabbing_both_legs', 'level': 6, 'object': ''}
+{'header': 'Feet', 'body': 'barefoot, soles, toes, ninja_toes, pawpads, paws, toes_scrunch', 'level': 6, 'object': ''}
+{'header': 'Hands', 'level': 6, 'object': ''}
+{'header': 'Hands above neck', 'body': 'finger_in_mouth, finger_on_tongue, Hand_in_hair, Hands_in_hair, Hand_in_anothers_hair, Hand_on_ear, Hand_on_Face, hand_on_anothers_face, hands_on_anothers_face, hand_on_own_face, hands_on_own_face, Hand_on_Cheek, hand_on_anothers_cheek, hand_on_own_cheek, hand_on_anothers_chin, hand_on_owns_chin, chin_rest, Hand_on_Mouth, Hand_on_Head, hand_on_anothers_head, hands_on_anothers_head, hand_on_own_head, hands_on_own_head, Hand_on_Headwear, Hand_on_hat', 'level': 7, 'object': ''}
+{'header': 'Hands on upper body', 'body': 'hand_around_neck, hand_on_chest, hands_on_chest, hand_on_anothers_chest, hands_on_anothers_chest, hand_on_own_chest, hands_on_own_chest, hand_on_hip, hands_on_hips, hand_on_anothers_hip, hands_on_anothers_hips, hand_on_own_hip, hand_on_shoulder, hand_on_anothers_shoulder, hands_on_anothers_shoulders, hand_on_own_shoulder, hands_on_own_shoulders, hands_on_stomach, hands_on_own_stomach', 'level': 7, 'object': ''}
+{'header': 'Hands on lower body', 'body': 'hands_around_leg, hand_between_legs, hand_in_panties, hands_in_panties, hand_in_pants, hands_in_pants, hand_on_hip, hands_on_hips, hand_on_anothers_hip, hands_on_anothers_hips, hand_on_own_hip, hands_on_own_hips, hand_on_leg, hands_on_legs, hand_on_anothers_leg, hand_on_own_leg, hand_on_knee, hands_on_knees, hand_on_anothers_knee, hands_on_anothers_knees, hand_on_own_knee, hands_on_own_knees, hand_in_lap, hands_in_lap, hand_on_thigh, hands_on_thighs, hand_on_anothers_thigh, hands_on_anothers_thighs, hand_on_own_thigh, hands_on_own_thighs, hands_under_legs', 'level': 7, 'object': ''}
+{'header': 'Hands on members', 'body': 'hands_on_feet, hands_together, holding_hands, hands_clasped, interlocked_fingers, wrist_grab', 'level': 7, 'object': ''}
+{'header': 'Hands elsewhere', 'body': 'finger_on_trigger, hand_in_air, hands_in_air, hand_in_pocket, hands_in_pockets, hands_in_sleeves, hands_under_clothing, hand_in_panties, hands_in_panties, hand_in_pants, hands_in_pants, hand_in_skirt, hand_in_swimsuit, hand_under_shirt, hands_under_shirt', 'level': 7, 'object': ''}
+{'header': 'Hand actions', 'body': 'holding, holding_weapon, skirt_tug, hands_in_air, hands_up', 'level': 7, 'object': ''}
+{'header': 'Arms', 'body': 'raised_arm, crossed_arms, arm_support, arms_above_head, barmaid, holding_arm, bent_arm, robotic_arm, mechanical_arm, prosthetic_arm, arm_above_head, arms_around_neck, long_arms, arm_pull, multi_arm, arms_together, extended_arm, extended_arms, raised_arms', 'level': 6, 'object': ''}
+{'header': 'Other', 'body': 'tentacles, wings', 'level': 6, 'object': ''}
+{'header': 'Fur', 'level': 3, 'object': ''}
+{'header': 'Skin', 'level': 4, 'object': ''}
+{'header': 'State', 'body': 'shiny_skin, deep_skin, sweat, heavy_sweat, wet_skin, glistening', 'level': 5, 'object': ''}
+{'header': 'Skin color', 'level': 5, 'object': ''}
+{'header': 'Types', 'body': 'dark_skin, light_skin, pale_skin, tan, tanlines', 'level': 6, 'object': ''}
+{'header': 'Colors', 'body': 'multicolored_skin, black_skin, blue_skin, green_skin, grey_skin, orange_skin, pink_skin, purple_skin, red_skin, white_skin, yellow_skin, ', 'level': 6, 'object': ''}
+{'header': 'Fur', 'level': 4, 'object': ''}
+{'header': 'Colours', 'body': 'spotted_fur, striped_fur, two_tone_fur, white_fur, brown_fur, black_fur, multicolored_fur, grey_fur, blue_fur, yellow_fur, orange_fur, tan_fur, purple_fur, red_fur, pink_fur, green_fur, multi_tone_fur, black_and_white_fur, glowing_fur', 'level': 5, 'object': ''}
+{'header': 'Types', 'body': 'neck_tuft, fur_tuft, furgonomics, wet_fur, glistening_fur', 'level': 5, 'object': ''}
+{'header': 'Actions', 'level': 2, 'object': ''}
+{'header': 'Actions', 'body': 'clothed_bath, bathing, showering, climbing_ladder', 'level': 5, 'object': ''}
+{'header': 'Posture', 'body': 'all_fours, orz, arched_back, arms_behind_back, arm_behind_back, arm_support, arm_up, arm_behind_head, v_over_eye, salute, arms_up, \\\\o/, arms_behind_head, back-to-back, bent_over, chest_stand, chin_rest, chin_stroking, circle_formation, cowering, crossed_arms, crucifixion, eye_contact, fighting_stance, battoujutsu_stance, flexing, hand_in_pocket, hands_in_pockets, hand_on_anothers_chest, hand_on_ear, hand_on_head, hand_on_headwear, hand_on_hip, hand_on_shoulder, hands_clasped, hands_on_face, hands_on_feet, hands_on_hips, hands_on_knees, handstand, headstand, holding_hands, interlocked_fingers, jumping, kneeling, knees_touching, leaning_back, leaning_forward, leg_lift, leg_lock, leg_up, legs_up, knees_on_chest, looking_at_viewer, looking_through_legs, looking_back, lying, fetal_position, on_back, on_side, on_stomach, outstretched_arm, outstretched_arms, outstretched_hand, outstretched_leg, pigeon-toed, princess_carry, reclining, shrug, sitting, butterfly_sitting, crossed_legs, indian_style, leg_hug, lotus_position, seiza (butt), sitting_on_lap, sitting_on_person, wariza (no butt), yokozuwari, steepled_fingers, splits, spread_arms, spread_legs, squatting, standing, balancing, legs_apart, standing_on_one_leg, straddling, thigh_straddling, stretch, top-down_bottom-up, v_arms, vertical_splits, yoga', 'level': 3, 'object': ''}
+{'header': 'Poses', 'body': 'posing, bunny_pose, horns_pose, paw_pose, archer_pose, awkward_pose, bras_dhonneur, body_bridge, contrapposto, dojikko_pose, gendou_pose, inugami-ke_no_ichizoku_pose, jojo_pose, kamina_pose, letter_pose, ojou-sama_pose, saboten_pose, symmetrical_hand_pose, the_pose, victory_pose, villain_pose, zombie_pose, saturday_night_fever, selfie', 'level': 3, 'object': ''}
+{'header': 'Gestures', 'level': 3, 'object': ''}
+{'header': 'With two hands', 'body': 'carry_me, clenched_hands, double_v, finger_frame, fist_bump, hands_clasped, heart_hands, heart_hands_duo, high_five, palm-fist_greeting, penetration_gesture, pinky_swear, tsuki_ni_kawatte_oshioki_yo', 'level': 4, 'object': ''}
+{'header': 'With one hand', 'level': 4, 'object': ''}
+{'header': 'One finger', 'body': 'akanbe, index_finger_raised, middle_finger, pinky_out, tiny_gesture, pointing, pointing_at_self, pointing_at_viewer, pointing_down, pointing_forward, pointing_up, , shushing, thumbs_down, thumbs_up', 'level': 5, 'object': ''}
+{'header': 'Two fingers', 'body': 'fellatio_gesture, cunnilingus_gesture, \\\\n/, finger_gun, v, inward_v, two-finger_salute, pinching_gesture', 'level': 5, 'object': ''}
+{'header': 'Three fingers', 'body': '\\\\m/, middle_w, ok_sign, money_gesture', 'level': 5, 'object': ''}
+{'header': 'Multiple fingers', 'body': 'beckon, chin_stroking, come_hither, hat_tip, V, V_over_eye, W', 'level': 5, 'object': ''}
+{'header': 'Whole open hand', 'body': 'claw_pose, open_hand, facepalm, open_\\\\m/, reaching, salute, spread_fingers, straight-arm_salute, vulcan_salute, waving', 'level': 5, 'object': ''}
+{'header': 'Whole closed hand', 'body': 'clenched_hand, fig_sign, power_fist, raised_fist', 'level': 5, 'object': ''}
+{'header': 'Misc', 'body': 'bowing, curtsey, heart_tail, heart_tail_duo, toe-point', 'level': 5, 'object': ''}

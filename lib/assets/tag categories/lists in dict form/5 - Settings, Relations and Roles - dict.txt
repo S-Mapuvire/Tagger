@@ -1,0 +1,6 @@
+{'header': 'Setting', 'body': 'hot_spring, bathhouse, classroom, locker_room, bedroom, outdoors, beach, seaside', 'level': 1, 'object': ''}
+{'header': 'Relations and roles', 'level': 1, 'object': ''}
+{'header': 'Relations', 'body': 'sibling, parent_and_child, mother_and_child, mother_and_son, father_and_son, father_and_daughter, mother_and_daughter', 'level': 2, 'object': ''}
+{'header': 'Roles', 'body': 'v-tuber, gyaru', 'level': 2, 'object': ''}
+{'header': 'Grouping', 'body': 'solo, solo_focus, duo, duo_focus, trio, trio_focus, group', 'level': 2, 'object': ''}
+{'header': 'Gender', 'body': 'female_focus, male_focus, androgynous, androgynous_focus, mixed_focus, agender, agender_focus, nonbinary, nonbinary_focus, femboy, femboy_focus, gynomorph, gynomorph_focus, andromorph, andromorph_focus, otokonoko, ojokonoko, mascgirl, mascgirl_focus', 'level': 2, 'object': ''}

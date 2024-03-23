@@ -1,0 +1,11 @@
+{Setting: [hot_spring, bathhouse, classroom, locker_room, bedroom, outdoors, beach, seaside]}
+	
+{Relations and roles: [Relations, Roles, Grouping, Gender]}
+	
+	{Relations: [sibling, parent_and_child, mother_and_child, mother_and_son, father_and_son, father_and_daughter, mother_and_daughter]}
+	
+	{Roles: [v-tuber, gyaru]}
+		
+	{Grouping: [solo, solo_focus, duo, duo_focus, trio, trio_focus, group]}
+		
+	{Gender: [female_focus, male_focus, androgynous, androgynous_focus, mixed_focus, agender, agender_focus, nonbinary, nonbinary_focus, femboy, femboy_focus, gynomorph, gynomorph_focus, andromorph, andromorph_focus, otokonoko, ojokonoko, mascgirl, mascgirl_focus]}

@@ -1,0 +1,23 @@
+{Adorations: [Style, Characters]}
+
+		{Style: [wonderful_shading, cool_perspective, nice_colours, interesting_setting]}
+		
+		{Characters: [cute [part], cute_everything, wonderful, beautiful]}
+	
+{Overall Mood: [Mood, Focus]}
+
+		{Mood: [calm, chill, cutesy, joyful, loving, lustful, sweltering, open_air, suggestive, intimate, warm, close, playful, nc-sh, greycon, ec, secluded, mass_contact, serves_em_right, isolated, tempting, pinup-ish, confidently_nude, poor_thing, silly_to_sexual, sexualizing_friend, tasty, aftersex_fingering, risky, wanna_be_her]}
+		
+{Inspo: [Body, Position, Shot, Look, Creative]}
+
+		{Body: [full_body_inspo, feet_inspo, butt_inspo, legs_inspo, hands_inspo]}
+
+		{Position: [position_inspo, pose_inspo, actions_inspo]}
+
+		{Shot: [shot_inspo, perspective_inspo]}
+
+		{Look: [outfit_inspo, look_inspo]}
+
+		{Creative: [scenario_inspo, style_inspo, colour_inspo]}
+
+	

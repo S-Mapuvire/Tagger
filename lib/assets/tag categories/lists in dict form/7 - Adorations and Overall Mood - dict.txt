@@ -1,0 +1,11 @@
+{'header': 'Adorations', 'level': 1, 'object': ''}
+{'header': 'Style', 'body': 'wonderful_shading, cool_perspective, nice_colours, interesting_setting', 'level': 3, 'object': ''}
+{'header': 'Characters', 'body': 'cute [part], cute_everything, wonderful, beautiful', 'level': 3, 'object': ''}
+{'header': 'Overall Mood', 'level': 1, 'object': ''}
+{'header': 'Mood', 'body': 'calm, chill, cutesy, joyful, loving, lustful, sweltering, open_air, suggestive, intimate, warm, close, playful, nc-sh, greycon, ec, secluded, mass_contact, serves_em_right, isolated, tempting, pinup-ish, confidently_nude, poor_thing, silly_to_sexual, sexualizing_friend, tasty, aftersex_fingering, risky, wanna_be_her', 'level': 3, 'object': ''}
+{'header': 'Inspo', 'level': 1, 'object': ''}
+{'header': 'Body', 'body': 'full_body_inspo, feet_inspo, butt_inspo, legs_inspo, hands_inspo', 'level': 3, 'object': ''}
+{'header': 'Position', 'body': 'position_inspo, pose_inspo, actions_inspo', 'level': 3, 'object': ''}
+{'header': 'Shot', 'body': 'shot_inspo, perspective_inspo', 'level': 3, 'object': ''}
+{'header': 'Look', 'body': 'outfit_inspo, look_inspo', 'level': 3, 'object': ''}
+{'header': 'Creative', 'body': 'scenario_inspo, style_inspo, colour_inspo', 'level': 3, 'object': ''}

@@ -1,0 +1,172 @@
+----meta
+
+ anthology; image_book; sex_compilations; multi-chapter; 
+ 
+ full_colour; 
+ 
+ under_3_pages; under_5_pages; under_10_pages;
+ 
+ over_100_pages; over_200_pages;
+
+----theme
+
+ super-norm; non-norm; non-con; rom; lustful; grey-con; qr
+
+----grouping
+
+ solo; duo; trio; foursome; group;
+
+----focus
+
+ andro; fem; boy; mixed; agen; yaoi; yuri;
+
+----traits
+
+ young; young-focus; teen-focus; teen;
+
+----nc-type
+
+ time_stop; blackmail; mind-alteration; molestation; drunk; humiliation; mind_break; tentacle_rape; forced_exposure; unconscious; coercion; corruption; slave; unwanted_creampie; forced_orgasm; forced_position; restrained; forced_oral; overtaken_by_pleasure;
+
+----setting
+
+ bedroom; living room; bathroom; balcony; dining room; kitchen; mansion; hotel; shower; 
+ 
+ sauna; massage room;
+ 
+ classroom; library; warehouse; office; dojo; church; laboratory; shrine;
+ 
+ pool; entertainment area; medical area; prison; restaurant; gym; locker room; store; theater; festival; restroom; dressing room; hot springs;  
+ 
+ car; plane; train; 
+ 
+ dungeon; 
+ 
+ tight space; 
+ 
+ field; forest; beach; cave; 
+ 
+ alley; roof; street-side; elevator; building outside; 
+ 
+ dream; virtual reality; white space;
+
+----space
+
+ private; intimate; secluded; isolated; public; voyeur; open;
+
+----body
+
+ cute penis; cute form; cute hands; cute butt; cute breasts; cute pussy; cute feet;
+  
+ bare legs; barefoot; soles; muscle; chubby; petite; abs; lean;
+ 
+ large breasts; large butt; small chest; dark skin; wide hips;
+ 
+ fat mons; small penis; petite w/ large penis; 
+ 
+ size difference;
+ 
+ lots of fluids; steam; wet; sweat; dripping;
+
+----hair
+
+ bun; twintails; braid; short hair; long hair; side-cut; ponytail; hime cut; bob; pixie; tied up short; mohawk; shaved; cute hair; parted short hair;
+
+----clothing
+
+ apron; baseball cap; glasses; lots'o'jewelry; toeless legwear; mask; braces; mage hat; lab coat; short shorts; bra;
+ 
+ cute outfit;   
+ 
+ gothic lolita; arabic clothing; school uniform; server uniform; medical uniform; idol costume; dancewear; winterwear; sportswear; swimwear; religiouswear; cosplay; leotard;  
+ 
+ maid outfit; armour; bunny costume; bodysuit; catsuit; suit; qipao; kimono; wedding dress; corset; fundoshi;
+ 
+ open clothes; torn clothes; see-through clothes; revealing clothes; undressed; bottomless; scant; tight clothes; 
+ 
+ naked shirt;
+ 
+ under-cleavage; deep cleavage;
+ 
+ collar-only; shoes-only; stockings-only; mostly-nude; 
+ 
+ all-nude; nude-only; 
+
+----mood
+
+ expressionless; unaware; 
+ 
+ exhausted; heavy sweat; heavy blush; overwhelmed; heavy breathing; sweltering; clenched teeth;
+ 
+ heavy moaning; lots of moaning; horny; ecstasy; ahegao; 
+ 
+ nervous; embarassed; scared; crying; pained; desperate; shy; angry; 
+ 
+ smug; 
+ 
+ after-glow; 
+
+----sentiment
+
+ serves 'em right; cock sleeve; cock sheath; cum bucket; domesticated;
+
+----role
+
+ angel; demon; ghost; invisible;
+ 
+ housewife; 
+ 
+ ninja; royalty; fighter; adventurer;
+ 
+ magical girl; mage; superhero; 
+ 
+ teacher/tutor; classmate; 
+ 
+ v-tuber; virtual youtuber; 
+ 
+ tsundere;
+
+----act
+
+ both drunk;
+ 
+ stripping; exhibitionism; stealth sex; hidden sex; flashing; posing;
+ 
+ anal; oral; vaginal; licking; clothed sex; hand-stimulation; footjob; frottage; masturbation; phone sex; watersports; tentacle sex; exercise; multi-use; cleaning oral;
+ 
+ kiss; sloppy kiss; kiss during sex; hand holding during sex;
+ 
+ spooning; massage; oil; nipple play;
+ 
+ fucked silly; full and deep; tingles and shocks; arched back; overflow; panting; enduring face;
+ 
+----position
+
+ 69; acrobat; butterfly; cowgirl; reverse cowgirl; forced cowgirl; dancer; lotus; doggystyle; lap dance; seated drilling; spoon; carry; leg glider; victory; prone bone;
+
+--------------------------------------
+
+
+
+
+
+
+
+---------------------------------------
+
+meta:
+theme:
+grouping: 
+focus:  
+traits:
+nc-type: 
+setting:
+space:
+body: 
+hair:
+clothing:
+mood:
+sentiment:
+role:
+act:
+position:

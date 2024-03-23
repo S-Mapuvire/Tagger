@@ -1,0 +1,15 @@
+{Animation: [Videos, Sounds, Other]}
+
+	{Videos: [video, looping_animation, scene, sound, no_sound]}
+	
+	{Sounds: [voice, other noises]}
+
+		{Voice: [tone, moaning]}
+	
+			{Tone: [raspy, muffled_voice]}
+		
+			{Moaning: [intense_moaning, ragged_moaning, heavy_moaning, low_moaning, soft_moaning, sensitive_moans]}
+	
+		{Other noises: [wet_sounds, plap, oral_sounds]}
+	
+	{Other: [animated, song, animated_gif]}

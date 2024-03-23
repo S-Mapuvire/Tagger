@@ -1,0 +1,42 @@
+*{
+    background-color: #ffc0cb;
+    font-family: 'Ysabeau Office Medium';
+    font-size: 14pt;
+    border: 1px double blue;
+}
+QCheckBox {
+    spacing: 10px; 
+    padding: 5px;
+    /* background-color: white; */
+    /* color: #eeced3 */
+}
+QCheckBox::indicator {
+    width: 20px;
+    height: 20px;
+
+    border: 1px solid black;
+
+}
+QCheckBox::indicator:hover{
+    background-color: blue;
+}
+QCheckBox::indicator:active{
+    /* background-color: red; */
+}
+QPushButton{
+    border: 2px solid #e2a8e2;
+    /* border: 2px solid #e291e2; */
+    border-radius: 100px;
+    color: #922792;
+}
+
+QPushButton:hover{
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #ffc0cb, stop: 1 #ffc0cb);
+    border: 2px solid #9c8e9b;
+}
+
+QPushButton:pressed {
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #f6cbd2, stop: 1 #e4adb6);
+}
+
+/*self._DockArea.setStyleSheet("background-color: #f1b5f1")*/
