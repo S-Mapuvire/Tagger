@@ -33,7 +33,7 @@ class TagPicker(QMainWindow):
     def __init__(self, startingTags):
         #### Window settings ####
         super().__init__()
-        QPalette.WindowText
+        ##QPalette.WindowText
         self.setWindowTitle('Tag Selection')
         self.setMinimumSize(300,500)
 
